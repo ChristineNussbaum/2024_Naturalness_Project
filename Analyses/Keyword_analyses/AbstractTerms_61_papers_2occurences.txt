@@ -1,0 +1,287 @@
+﻿id	term	occurrences	relevance score
+1	ability	7	0.5704
+2	accent	3	1.056
+3	acceptance	5	0.7379
+4	accuracy	3	1.0426
+5	acoustic basis	3	1.4907
+6	acoustic measure	3	2.2914
+7	acoustic variable	3	1.7317
+8	adaptation	3	0.592
+9	addition	2	0.8981
+10	adult	5	0.4143
+11	adult male	2	0.9305
+12	age	10	0.341
+13	agent	7	0.6294
+14	amount	2	1.1851
+15	appearance	2	1.2465
+16	application	7	0.4087
+17	approach	3	1.0116
+18	appropriateness	2	1.0585
+19	article	3	0.6206
+20	articulatory speech synthesis	2	2.4969
+21	articulatory synthesis	2	2.4969
+22	artificial voice	6	0.9944
+23	asd	2	1.3134
+24	aspect	5	0.6762
+25	assessment	5	1.0846
+26	association	3	1.1216
+27	attention	6	0.3431
+28	attitude	3	0.7819
+29	attribute	5	0.6904
+30	autism spectrum disorder	2	1.3134
+31	benefit	6	0.2891
+32	boy	2	2.1584
+33	category	2	0.9867
+34	challenge	2	0.5766
+35	change	4	0.6152
+36	character	5	0.7681
+37	child	2	2.1584
+38	choice	2	1.3403
+39	cisgender speaker	2	2.1562
+40	clarity	3	0.4694
+41	cognition	2	1.0056
+42	combination	5	0.6336
+43	communication	7	0.2292
+44	communicator	2	0.9582
+45	comparison	5	0.4413
+46	competence	2	1.0242
+47	complexity	2	1.6566
+48	computer	8	0.4651
+49	concern	4	0.682
+50	condition	8	0.3531
+51	confidence	2	0.7963
+52	consideration	3	0.6227
+53	consistency	3	0.6179
+54	context	8	0.2559
+55	control	6	0.6326
+56	conversation	3	0.8563
+57	conversational agent	3	0.9971
+58	creation	2	1.1409
+59	credibility	3	0.8893
+60	cue	6	0.3431
+61	current study	2	0.9116
+62	daily life	4	0.4741
+63	data	6	0.3984
+64	day	2	1.5726
+65	degree	5	0.5585
+66	device	3	0.4646
+67	difference	10	0.1955
+68	dimension	6	0.2
+69	disease	4	1.7884
+70	domain	4	0.5925
+71	duration	8	0.5776
+72	dysarthria	3	2.2619
+73	dysarthric speech	2	2.857
+74	ecological validity	2	1.9291
+75	eeriness	2	1.0605
+76	effect	29	0.074
+77	effectiveness	2	1.5726
+78	embodiment	3	0.9067
+79	emotion	11	0.2447
+80	emotion perception	3	0.4237
+81	emotional prosody	2	0.7636
+82	emotional speech	2	0.821
+83	empathic response	2	1.7038
+84	empathy	2	1.7038
+85	end	4	1.1623
+86	english	2	1.0794
+87	evaluation	11	0.1503
+88	evidence	8	0.3243
+89	experience	5	0.4992
+90	experiment	18	0.2262
+91	extent	2	0.7957
+92	face	3	1.2244
+93	feature	10	0.3381
+94	feeling	3	2.0515
+95	female	2	0.881
+96	female speaker	3	1.5508
+97	first experiment	2	1.6552
+98	first study	2	1.7038
+99	fluency	3	0.7276
+100	framework	5	0.6461
+101	frequency	7	0.4988
+102	fundamental frequency	5	0.9808
+103	future study	2	1.412
+104	gender	5	0.6054
+105	gender identification	3	1.4896
+106	generation	2	1.1022
+107	german word	2	2.4969
+108	girl	2	2.1584
+109	glottal excitation	2	1.7284
+110	great deal	2	1.0757
+111	group	7	0.6369
+112	human	14	0.5291
+113	human face	2	1.2212
+114	human likeness	8	0.49
+115	human realism	2	1.5245
+116	human robot interaction	2	1.0565
+117	human voice	12	0.4897
+118	humanlike voice	2	0.451
+119	humanness	3	2.4328
+120	hypothesis	3	1.028
+121	identity	5	0.4515
+122	impact	3	1.1506
+123	impairment	3	1.2031
+124	importance	4	0.5142
+125	impression	6	0.8644
+126	improvement	5	0.5371
+127	individual	5	0.3464
+128	influence	8	0.3172
+129	intelligibility	12	0.2259
+130	intensity	7	0.7418
+131	interaction	5	0.431
+132	interest	4	0.5749
+133	investigation	3	0.5665
+134	involvement	2	1.5954
+135	judge	2	1.2955
+136	judgment	6	0.3848
+137	language	3	0.767
+138	level	16	0.1374
+139	light	3	0.6802
+140	likability	2	1.0794
+141	listener	19	0.3961
+142	listener rating	2	1.1173
+143	listeners perception	2	0.6052
+144	literature	4	0.7975
+145	low	2	0.7226
+146	lyric	2	3.6872
+147	machine	3	1.0319
+148	male	3	1.6385
+149	male speaker	2	1.5006
+150	man	2	1.533
+151	manipulation	3	1.0591
+152	masculinity femininity	2	2.1562
+153	measure	6	0.6119
+154	mechanism	5	0.7395
+155	melody	2	3.6872
+156	mismatch	2	2.035
+157	model	10	0.3456
+158	music	2	1.1525
+159	naive listener	2	1.6269
+160	natural sounding speech	2	1.4661
+161	naturalness	34	0.0742
+162	nature	2	1.775
+163	need	2	1.4386
+164	negative attitude	2	1.0841
+165	none	2	1.3235
+166	openness	2	1.1448
+167	order	6	0.7333
+168	outcome	6	0.3225
+169	paper	4	0.6488
+170	parkinson	3	1.669
+171	participant	14	0.2026
+172	patient	4	0.8735
+173	pattern	4	0.5346
+174	perceived naturalness	2	1.0682
+175	perception	24	0.1167
+176	person	11	0.2981
+177	personality	2	0.9118
+178	pitch	4	0.9613
+179	pleasantness	4	0.5359
+180	point	5	0.4196
+181	positive feeling	4	1.467
+182	predictor	2	1.7693
+183	preference	5	0.4904
+184	presence	4	0.9504
+185	present study	2	1.7093
+186	previous research	2	0.6551
+187	previous study	2	0.6639
+188	production	3	0.8311
+189	prosodic feature	2	1.6788
+190	prosody	5	0.3636
+191	quality	14	0.2105
+192	question	4	0.7462
+193	range	7	0.5527
+194	rate	8	0.8489
+195	rater	2	2.3059
+196	rating	14	0.1312
+197	rating scale	2	1.7667
+198	reaction time	2	1.268
+199	recording	3	1.1021
+200	relation	3	0.9463
+201	relationship	7	0.3771
+202	report	3	0.8993
+203	research	10	0.2065
+204	response	14	0.1656
+205	rhythm	2	3.6872
+206	robot	9	0.7216
+207	role	8	0.2875
+208	sample	8	0.4819
+209	scale	6	0.3843
+210	second experiment	2	1.6552
+211	sense	2	1.5578
+212	sentence	4	0.9523
+213	session	2	1.6843
+214	severity	3	1.2706
+215	sex	2	0.9647
+216	signal	3	0.781
+217	significant difference	3	0.9576
+218	social robot	3	0.9067
+219	song	2	3.6872
+220	sound	5	0.599
+221	source	2	1.3072
+222	speaker	14	0.4117
+223	speech	24	0.202
+224	speech intelligibility	3	1.4927
+225	speech naturalness	10	0.8686
+226	speech naturalness rating	2	1.99
+227	speech quality	2	1.0967
+228	speech sample	7	0.7714
+229	speech stimuli	2	1.3533
+230	speech synthesis	5	0.778
+231	speech synthesis technology	2	1.0647
+232	spontaneous speech	2	2.3119
+233	state	3	0.7013
+234	step	2	1.408
+235	stimuli	7	0.5772
+236	study	36	0.0548
+237	study design	2	1.7545
+238	subject	3	0.5775
+239	subtle difference	2	3.6872
+240	suggestion	2	0.9727
+241	support	6	0.5883
+242	survey	4	0.8122
+243	syllable	3	1.2018
+244	synthesized voice	4	0.4755
+245	synthetic	3	0.8264
+246	synthetic speech	6	0.5285
+247	synthetic voice	8	0.5541
+248	system	6	0.4261
+249	systematic review	2	1.0603
+250	talker	4	0.6681
+251	task	13	0.1465
+252	technique	4	0.4029
+253	term	5	0.5266
+254	test	4	1.0509
+255	text	4	0.5512
+256	time	5	0.5072
+257	tracheoesophageal	2	1.775
+258	training	3	1.3404
+259	transgender	2	2.1562
+260	treatment	5	1.3192
+261	trust	5	0.734
+262	type	9	0.34
+263	uncanny valley	3	1.2428
+264	understanding	3	0.3921
+265	use	10	0.2078
+266	user	12	0.3553
+267	user perception	2	0.7865
+268	utterance	7	0.5321
+269	valence	3	0.305
+270	validity	2	1.4386
+271	variable	3	0.842
+272	visual analog scale	2	1.1139
+273	vocal emotion	2	1.7646
+274	vocal fry	2	1.2348
+275	vocal tract	4	1.256
+276	voice	32	0.0755
+277	voice assistant	2	1.2585
+278	voice quality	6	0.3627
+279	voice type	4	0.8622
+280	vowel	4	1.3056
+281	way	2	1.7529
+282	week	2	2.4584
+283	woman	3	1.5535
+284	work	6	0.4343
+285	year	4	1.3846
+286	younger listener	2	0.9427

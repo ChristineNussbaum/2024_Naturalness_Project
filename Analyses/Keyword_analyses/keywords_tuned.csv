@@ -1,0 +1,346 @@
+"","keyword","occurrences"
+"1","(in)consistency",5
+"2","1st impressions",1
+"3","a cappella",1
+"4","accent",1
+"5","acceptability",6
+"6","acoustics",7
+"7","adaptation",4
+"8","adolescents",2
+"9","adults",3
+"10","affective prosody",2
+"11","age",1
+"12","agent",3
+"13","alaryngeal speech",2
+"14","alexa",1
+"15","alexithymia",1
+"16","animation fidelity",1
+"17","anthropomorphism",6
+"18","aperiodicity",1
+"19","aphasia",1
+"20","appearance",2
+"21","application context",1
+"22","apraxia",1
+"23","arousal",2
+"24","articulatory synthesis",1
+"25","artificial intelligence",1
+"26","artificial larynx speech",1
+"27","artificial voice",1
+"28","assessment",1
+"29","ataxic neuropathy",1
+"30","attention",3
+"31","attitudes",4
+"32","attraction",1
+"33","audiobooks",1
+"34","audiovisual judgments",1
+"35","auditory",1
+"36","autism",2
+"37","automatic personality perception",1
+"38","automatic personality recognition",1
+"39","automatic personality synthesis",1
+"40","avatar",1
+"41","behavior",1
+"42","behavioral intentions",1
+"43","bias",1
+"44","calculus",1
+"45","categorization",1
+"46","characters",1
+"47","children",5
+"48","clear",1
+"49","cleft-palate",1
+"50","clustering",1
+"51","co-presence",2
+"52","cognition",1
+"53","cognitive processing",1
+"54","communication",6
+"55","complex sound",1
+"56","comprehension",1
+"57","computational modeling",1
+"58","computer",2
+"59","computer agents",1
+"60","computer voice",1
+"61","computers are social actors (casa)",1
+"62","consonant mutation",1
+"63","constraints",1
+"64","consumer adoption",1
+"65","conversational agents",2
+"66","conversion",1
+"67","cophonology theory",1
+"68","cortex",1
+"69","creaky voice",1
+"70","cues",2
+"71","different frequency responses",1
+"72","digital signal processing",1
+"73","discrimination",3
+"74","disease",1
+"75","dynamics",1
+"76","dysarthria",3
+"77","dysarthric speech",1
+"78","e-commerce",1
+"79","ear",1
+"80","eeriness",1
+"81","effectiveness",2
+"82","elderspeak",1
+"83","electroencephalography (eeg)",1
+"84","electrolarynx speech",1
+"85","embodied agents",2
+"86","embodied ai",1
+"87","emotion",9
+"88","emotion transplantation",1
+"89","emotional robot speech",1
+"90","emotive voices",1
+"91","english",3
+"92","esophageal speech",1
+"93","evaluation",1
+"94","evoked imagery",1
+"95","experience",2
+"96","experientiality",1
+"97","experimental tests",1
+"98","exploratory factor-analysis",1
+"99","expression",4
+"100","expressive speech",1
+"101","expressive speech synthesis",1
+"102","extrastriate cortex",1
+"103","eye contact",1
+"104","eye-tracking",1
+"105","face",3
+"106","facial expressions",1
+"107","facial-vocal mismatch",1
+"108","feature manipulation",1
+"109","features",1
+"110","feedback",1
+"111","female",2
+"112","femininity",1
+"113","field",1
+"114","final stop consonants",1
+"115","finite mixture modeling",1
+"116","fluency shaping",1
+"117","fnirs",1
+"118","foreign-accented speech",1
+"119","foreign-language",1
+"120","formant frequencies",2
+"121","framework",1
+"122","friedreich ataxia",1
+"123","fundamental frequency",14
+"124","gender",4
+"125","generative adversarial network",1
+"126","grammatical complexity",1
+"127","habituation",2
+"128","hearing disorders",1
+"129","hidden markov model",1
+"130","human and artificial voices",1
+"131","human realism",3
+"132","human voice",1
+"133","human-agent interaction",8
+"134","human-likeness",4
+"135","humanisation",1
+"136","hypopharyngeal cavities",1
+"137","identification",3
+"138","identity",1
+"139","impact",1
+"140","impressions",2
+"141","individual-differences",2
+"142","individuality",1
+"143","individuals",2
+"144","inference",1
+"145","information",3
+"146","information disclosure",1
+"147","insula",1
+"148","integration",1
+"149","intelligibility",8
+"150","intensity",1
+"151","intensive voice treatment",2
+"152","intention",1
+"153","interface",1
+"154","internet users",1
+"155","interspeaker variation",1
+"156","intonation",3
+"157","inverse filtering",1
+"158","jitter",2
+"159","judgments",1
+"160","language",1
+"161","language attitudes",2
+"162","laryngeal-cancer",2
+"163","laryngectomy rehabilitation",2
+"164","latent profile analysis",1
+"165","length",2
+"166","levodopa",1
+"167","lidcombe-program",1
+"168","likability",1
+"169","listener perceptions",1
+"170","listener preferences",1
+"171","listeners",1
+"172","lobe",1
+"173","long-term",1
+"174","loudness",1
+"175","loudspeaker measurements",1
+"176","lyrics",1
+"177","magnitude estimation",1
+"178","markers",1
+"179","masahiro mori",1
+"180","matched guise",1
+"181","memory",1
+"182","metaanalysis",1
+"183","mind",1
+"184","mismatch negativity",1
+"185","model",7
+"186","moderating role",1
+"187","morphology",1
+"188","morphology-phonology interface",1
+"189","multicultural",1
+"190","multidimensional scaling",1
+"191","music",1
+"192","naturalness",14
+"193","negative affect",1
+"194","older-adults",2
+"195","outcomes",2
+"196","palatalization",1
+"197","paralinguistic features",1
+"198","parameter-specific voice morphing",1
+"199","parameters",2
+"200","parkinsons-disease",1
+"201","patterns",1
+"202","perceived difficulty",1
+"203","perception",27
+"204","perceptual scaling",1
+"205","person-centered approach",1
+"206","personalisation",1
+"207","personality",8
+"208","perspective",1
+"209","persuasiveness",1
+"210","perturbations",1
+"211","phase-ii trial",1
+"212","phonation",1
+"213","phonation threshold pressure",1
+"214","phoneme representations",1
+"215","phonology",1
+"216","phrase-final syllable lengthening",1
+"217","physical appearance",1
+"218","physiological response",1
+"219","pictures",1
+"220","piriform fossae",1
+"221","pitch accent",1
+"222","prefrontal cortex",1
+"223","privacy paradox",1
+"224","progression",1
+"225","progressive voice assimilation",1
+"226","prosodic disturbance",1
+"227","prosody",3
+"228","psychology",1
+"229","psytoolkit",1
+"230","quality-of-life",1
+"231","race",1
+"232","radio",1
+"233","ratings",3
+"234","rationality",1
+"235","reading impairments",1
+"236","recall",2
+"237","recognition",3
+"238","reflex",1
+"239","regularities",1
+"240","rehabilitation",1
+"241","reliability",1
+"242","rendering style",1
+"243","representation",1
+"244","resolution",1
+"245","responses",3
+"246","restaurant",1
+"247","restoration",1
+"248","robot",5
+"249","robot gaze",1
+"250","rules",1
+"251","school-age-children",1
+"252","self-disclosure",1
+"253","semantics",1
+"254","sense",1
+"255","sensory memory",1
+"256","sentence intelligibility",1
+"257","sequences",1
+"258","service",1
+"259","service robot",1
+"260","severity",1
+"261","sex",1
+"262","shimmer",2
+"263","simulated empathy",1
+"264","simulation",1
+"265","single-trial event-related potential (erp)",1
+"266","sinuses",1
+"267","smart home speakers",1
+"268","social correlates",1
+"269","social presence",1
+"270","social responses",1
+"271","social robot",5
+"272","sound",2
+"273","speaker anonymization",1
+"274","speakers",4
+"275","speaking",1
+"276","speaking rate",1
+"277","spectral envelope",1
+"278","speech",11
+"279","speech disorders",1
+"280","speech interface",1
+"281","speech production",2
+"282","speech rate",3
+"283","speech restructuring",1
+"284","speech synthesis system",1
+"285","speech-listener",1
+"286","spinocerebellar ataxia type 1",1
+"287","statistical parametric speech synthesis",1
+"288","stereotypes",2
+"289","stress",2
+"290","stress management",1
+"291","stuttering",6
+"292","styles",1
+"293","stylistic correlates",1
+"294","subjective evaluation",1
+"295","syllable structure",1
+"296","synthesized voices",17
+"297","system",1
+"298","talker variability",1
+"299","talking books",1
+"300","testosterone",1
+"301","text-to-speech",2
+"302","text-to-speech systems",1
+"303","therapy",2
+"304","timbre",1
+"305","to-female transsexuals",1
+"306","tongue",1
+"307","tracheoesophageal speech",2
+"308","transformation",2
+"309","transgender",1
+"310","transportation",1
+"311","transvelar coupling",1
+"312","treatment",2
+"313","treatment lsvt(r)",2
+"314","trust",3
+"315","trustworthiness",1
+"316","uncanny valley",6
+"317","user preference",1
+"318","users",2
+"319","valence",2
+"320","validation",1
+"321","variables",1
+"322","verification",1
+"323","virtual",4
+"324","vocal affect",1
+"325","vocal age",1
+"326","vocal emotion",1
+"327","vocal fry",1
+"328","vocal prosody",1
+"329","vocal tract model",2
+"330","vocal-tract",1
+"331","vocalic nucleus",1
+"332","vocalics",1
+"333","voice",9
+"334","voice assistant",3
+"335","voice problems",1
+"336","voice quality",12
+"337","voice-user interface (vui)",1
+"338","vowel normalization",1
+"339","vowel reduction",1
+"340","warmth",1
+"341","willingness",1
+"342","word recognition",1
+"343","working alliance",1
+"344","x-vector singular value",1
+"345","young",2

@@ -1,0 +1,1511 @@
+%0 Book Section
+%@ 9781483380834
+%E Damico, Jack S.
+%E Ball, Martin J.
+%T Speech Naturalness
+%B The SAGE Encyclopedia of Human Communication Sciences and Disorders
+%D 2019
+%C 2455 Teller Road, Thousand Oaks, California 91320
+%I SAGE Publications, Inc
+%R 10.4135/9781483380810.n577
+%~ CrossRef
+
+
+%0 Journal Article
+%T Is Natural Necessary? Human Voice versus Synthetic Voice for Intelligent Virtual Agents
+%A Abdulrahman, Amal
+%A Richards, Deborah
+%D 2022
+%J Multimodal Technologies and Interaction
+%N 7
+%V 6
+%P 51
+%R 10.3390/mti6070051
+%Z PII:  mti6070051
+%~ CrossRef
+
+
+%0 Journal Article
+%T Feedback and Feedforward Auditory-Motor Processes for Voice and Articulation in Parkinson's Disease
+%A Abur, Defne
+%A Subaciute, Austeja
+%A Daliri, Ayoub
+%A Lester-Smith, Rosemary A.
+%A Lupiani, Ashling A.
+%A Cilento, Dante
+%A Enos, Nicole M.
+%A Weerathunge, Hasini R.
+%A Tardif, Monique C.
+%A Stepp, Cara E.
+%D 2021
+%J J Speech Lang Hear Res
+%@ 1558-9102 (Electronic) 1092-4388 (Linking)
+%N 12
+%V 64
+%P 4682–4694
+%G eng
+%7 03.11.2021
+%R 10.1044/2021_JSLHR-21-00153
+%2 34731577
+%X PURPOSE
+Unexpected and sustained manipulations of auditory feedback during speech production result in "reflexive" and "adaptive" responses, which can shed light on feedback and feedforward auditory-motor control processes, respectively. Persons with Parkinson's disease (PwPD) have shown aberrant reflexive and adaptive responses, but responses appear to differ for control of vocal and articulatory features. However, these responses have not been examined for both voice and articulation in the same speakers and with respect to auditory acuity and functional speech outcomes (speech intelligibility and naturalness).
+METHOD
+Here, 28 PwPD on their typical dopaminergic medication schedule and 28 age-, sex-, and hearing-matched controls completed tasks yielding reflexive and adaptive responses as well as auditory acuity for both vocal and articulatory features.
+RESULTS
+No group differences were found for any measures of auditory-motor control, conflicting with prior findings in PwPD while off medication. Auditory-motor measures were also compared with listener ratings of speech function: first formant frequency acuity was related to speech intelligibility, whereas adaptive responses to vocal fundamental frequency manipulations were related to speech naturalness.
+CONCLUSIONS
+These results support that auditory-motor processes for both voice and articulatory features are intact for PwPD receiving medication. This work is also the first to suggest associations between measures of auditory-motor control and speech intelligibility and naturalness.
+%Z Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+%~ PubMed
+
+
+%0 Journal Article
+%T A method for generating natural-sounding speech stimuli for cognitive brain research
+%A Alku, Paavo
+%A Tiitinen, Hannu
+%A Näätänen, Risto
+%D 1999
+%J Clinical Neurophysiology
+%@ 1388-2457
+%N 8
+%V 110
+%P 1329–1333
+%R 10.1016/S1388-2457(99)00088-7
+%Z PII:  S1388245799000887
+%~ CrossRef
+
+
+%0 Journal Article
+%T Listener Perception of Monopitch, Naturalness, and Intelligibility for Speakers With Parkinson's Disease
+%A Anand, Supraja
+%A Stepp, Cara E.
+%D 2015
+%J Journal of Speech, Language, and Hearing Research
+%N 4
+%V 58
+%P 1134–1144
+%G eng
+%R 10.1044/2015_JSLHR-S-14-0243
+%2 26102242
+%X PURPOSE
+Given the potential significance of speech naturalness to functional and social rehabilitation outcomes, the objective of this study was to examine the effect of listener perceptions of monopitch on speech naturalness and intelligibility in individuals with Parkinson's disease (PD).
+METHOD
+Two short utterances were extracted from monologue samples of 16 speakers with PD and 5 age-matched adults without PD. Sixteen listeners evaluated these stimuli for monopitch, speech naturalness and intelligibility using the visual sort and rate method.
+RESULTS
+Naïve listeners can reliably judge monopitch, speech naturalness, and intelligibility with minimal familiarization. While monopitch and speech intelligibility were only moderately correlated, monopitch and speech naturalness were highly correlated.
+CONCLUSIONS
+A great deal of attention is currently being paid to improvement of vocal loudness and thus speech intelligibility in PD. Our findings suggest that prosodic characteristics such as monopitch should be explored as adjuncts to this treatment of dysarthria in PD. Development of such prosodic treatments may enhance speech naturalness and thus improve quality of life.
+%Z Journal Article
+Research Support, N.I.H., Extramural
+%~ PubMed
+
+
+%0 Book Section
+%A Assmann, Peter F.
+%A Dembling, Sophia
+%A Nearey, Terrance M.
+%T Effects of frequency shifts on perceived naturalness and gender information in speech
+%B INTERSPEECH
+%D 2006
+%~ BibTeX
+
+
+%0 Journal Article
+%T Time-varying spectral change in the vowels of children and adults
+%A Assmann, Peter F.
+%A Katz, W. F.
+%D 2000
+%J The Journal of the Acoustical Society of America
+%N 4
+%V 108
+%P 1856–1866
+%G eng
+%R 10.1121/1.1289363
+%2 11051512
+%X Recent studies have shown that time-varying changes in formant pattern contribute to the phonetic specification of vowels. This variation could be especially important in children's vowels, because children have higher fundamental frequencies (f0's) than adults, and formant-frequency estimation is generally less reliable when f0 is high. To investigate the contribution of time-varying changes in formant pattern to the identification of children's vowels, three experiments were carried out with natural and synthesized versions of 12 American English vowels spoken by children (ages 7, 5, and 3 years) as well as adult males and females. Experiment 1 showed that (i) vowels generated with a cascade formant synthesizer (with hand-tracked formants) were less accurately identified than natural versions; and (ii) vowels synthesized with steady-state formant frequencies were harder to identify than those which preserved the natural variation in formant pattern over time. The decline in intelligibility was similar across talker groups, and there was no evidence that formant movement plays a greater role in children's vowels compared to adults. Experiment 2 replicated these findings using a semi-automatic formant-tracking algorithm. Experiment 3 showed that the effects of formant movement were the same for vowels synthesized with noise excitation (as in whispered speech) and pulsed excitation (as in voiced speech), although, on average, the whispered vowels were less accurately identified than their voiced counterparts. Taken together, the results indicate that the cues provided by changes in the formant frequencies over time contribute materially to the intelligibility of vowels produced by children and adults, but these time-varying formant frequency cues do not interact with properties of the voicing source.
+%Z Journal Article
+Research Support, Non-U.S. Gov't
+%~ PubMed
+
+
+%0 Book Section
+%A Atmaja, Bagus Tris
+%A Sasou, Akira
+%A Akagi, Masato
+%T Automatic Naturalness Recognition from Acted Speech Using Neural Networks
+%B 2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)
+%D 2021
+%P 731–736
+%~ BibTeX
+
+
+%0 Journal Article
+%T Speech Synthesis for the Generation of Artificial Personality
+%A Aylett, Matthew P.
+%A Vinciarelli, Alessandro
+%A Wester, Mirjam
+%D 2020
+%J IEEE Transactions on Affective Computing
+%N 2
+%V 11
+%P 361–372
+%R 10.1109/TAFFC.2017.2763134
+%~ CrossRef
+
+
+%0 Journal Article
+%T The Perception of Vocal Traits in Synthesized Voices: Age, Gender, and Human Likeness
+%A Baird, Alice
+%A Jørgensen, Stina Hasse
+%A Parada-Cabaleiro, Emilia
+%A Cummings, Nicholas
+%A Hantke, Simone
+%A Schüller, Björn
+%D 2018
+%J Journal of the Audio Engineering Society
+%@ 15494950
+%N 4
+%V 66
+%P 277–285
+%R 10.17743/jaes.2018.0023
+%~ CrossRef
+
+
+%0 Book Section
+%@ 9781450353731
+%A Baird, Alice
+%A Jørgensen, Stina Hasse
+%A Parada-Cabaleiro, Emilia
+%A Hantke, Simone
+%A Cummins, Nicholas
+%A Schuller, Björn
+%E Fazekas, George
+%E Barthet, Mathieu
+%E Stockman, Tony
+%T Perception of Paralinguistic Traits in Synthesized Voices
+%B Proceedings of the 12th International Audio Mostly Conference on Augmented and Participatory Sound and Music Experiences
+%D 2017
+%C New York, NY, USA
+%I ACM
+%P 1–5
+%R 10.1145/3123514.3123528
+%~ CrossRef
+
+
+%0 Book Section
+%A Baird, Alice
+%A Parada-Cabaleiro, Emilia
+%A Hantke, Simone
+%A Burkhardt, Felix
+%A Cummings, Nicholas
+%A Schüller, Björn
+%T The Perception and Analysis of the Likeability and Human Likeness of Synthesized Speech
+%B Interspeech 2018
+%C ISCA
+%I ISCA
+%P 2863–2867
+%R 10.21437/Interspeech.2018-1093
+%~ CrossRef
+
+
+%0 Journal Article
+%T Effects of the piriform fossae, transvelar acoustic coupling, and laryngeal wall vibration on the naturalness of articulatory speech synthesis
+%A Birkholz, Peter
+%A Drechsel, Susanne
+%D 2021
+%J Speech Communication
+%@ 0167-6393
+%V 132
+%P 96–105
+%R 10.1016/j.specom.2021.06.002
+%Z PII:  S0167639321000686
+%~ CrossRef
+
+
+%0 Journal Article
+%T Manipulation of the prosodic features of vocal tract length, nasality and articulatory precision using articulatory synthesis
+%A Birkholz, Peter
+%A Martin, Lucia
+%A Xu, Yi
+%A Scherbaum, Stefan
+%A Neuschaefer-Rube, Christiane
+%D 2017
+%J Computer Speech & Language
+%@ 08852308
+%V 41
+%P 116–127
+%R 10.1016/j.csl.2016.06.004
+%Z PII:  S0885230816300055
+%~ CrossRef
+
+
+%0 Journal Article
+%T Praat: doing phonetics by computer [Computer program]: Version 6.0.46, retrieved January 2020 from http://www.praat.org/
+%A Boersma, Paul
+%D 2018
+%J http://www. praat. org
+%~ EndNote Tagged Import Format
+
+
+%0 Journal Article
+%T Lexical effects on phonetic categorization: The role of stimulus naturalness and stimulus quality
+%A Burton, Martha W.
+%A Blumstein, Sheila E.
+%D 1995
+%J Journal of Experimental Psychology: Human Perception and Performance
+%@ 1939-1277
+%N 5
+%V 21
+%P 1230–1235
+%G en
+%R 10.1037/0096-1523.21.5.1230
+%~ CrossRef
+
+
+%0 Book Section
+%A Cabral, João Paulo
+%A Cowan, Benjamin R.
+%A Zibrek, Katja
+%A McDonnell, Rachel
+%T The Influence of Synthetic Voice on the Evaluation of a Virtual Character
+%B Interspeech 2017
+%D 2017
+%C ISCA
+%I ISCA
+%P 229–233
+%R 10.21437/Interspeech.2017-325
+%~ CrossRef
+
+
+%0 Journal Article
+%T Social and Stylistic Correlates of Vocal Fry in a cappella Performances
+%A Chappell, Whitney
+%A Nix, John
+%A Parrott, Mackenzie
+%D 2020
+%J Journal of Voice
+%@ 0892-1997
+%N 1
+%V 34
+%P 156.e5–156.e13
+%G eng
+%7 18.08.2018
+%R 10.1016/j.jvoice.2018.06.004
+%2 30131202
+%X OBJECTIVE
+To determine the social and stylistic correlates of vocal fry in a cappella performances.
+STUDY DESIGN
+A matched-guise experiment was used to measure listener evaluations of fry and non-fry guises.
+METHODS
+Four singers, two male and two female, sang "The Star-Spangled Banner" with onset vocal fry. These recordings were used to create the two guises: (i) an unmodified recording with onset vocal fry on vowel-initial words and (ii) a recording in which the fry had been removed. In total, 253 participants listened to the recordings and evaluated the singers' social and stylistic attributes along a Likert scale, e.g., how confident, sexy, and sincere each singer sounded. A factor analysis was used to conflate correlated variables, and mixed effects linear regression models (n = 1,012) were fitted to each lone or joint factor to determine whether vocal fry significantly influenced listeners' responses to the singers.
+RESULTS
+Vocal fry significantly altered listener evaluations of the singers' sincerity/commitment, maturity/sophistication, naturalness, and confidence (P < 0.05). Unlike male singers, who were rated as significantly less sincere/committed with vocal fry, female singers were seen as more sincere/committed with vocal fry and younger listeners also found them less natural, suggesting vocal fry is associated with emotional intensity in female voices. Younger listeners perceived singers with fry as less mature/sophisticated, suggesting an association with youth. Finally, listeners with more musical training rated singers with fry as less confident, while less trained listeners did not exhibit this difference.
+CONCLUSIONS
+Listeners are highly attuned to vocal fry in music but respond to it differently based upon their age, musical training, and the singer's sex. Vocal fry is evaluated more positively among younger, less musically trained listeners, and it is better received in women's voices, suggesting that the use of fry strategically targets a specific audience, i.e., younger and less trained listeners, who interpret fry as a marker of youth and emotional earnestness. These findings show that a single stylistic feature like vocal fry can be imbued with multiple meanings depending on the singer and audience, and its use can serve to include or exclude particular listener groups.
+%Z Journal Article
+%~ PubMed
+
+
+%0 Journal Article
+%T Influence of TTS Systems Performance on Reaction Times in People with Aphasia
+%A Cistola, Giorgia
+%A Peiró-Lilja, Alex
+%A Cámbara, Guillermo
+%A van der Meulen, Ineke
+%A Farrús, Mireia
+%D 2021
+%J Applied Sciences
+%N 23
+%V 11
+%P 11320
+%R 10.3390/app112311320
+%Z PII:  app112311320
+%~ CrossRef
+
+
+%0 Journal Article
+%T Ratings of speech naturalness of children ages 8-16 years
+%A Coughlin-Woods, Suzanne
+%A Lehman, Mark E.
+%A Cooke, Paul A.
+%D 2005
+%J Perceptual and Motor Skills
+%@ 0031-5125
+%N 2
+%V 100
+%P 295–304
+%G eng
+%R 10.2466/pms.100.2.295-304
+%2 15974337
+%X The focus of this cross-sectional study was the investigation of Speech Naturalness (speech that sounds normal or natural to the listener) of 60 normal speaking children and adolescents between the ages of 8 and 16 years. 26 naive adult listeners rated the naturalness of videotaped and computer-presented speech samples, using a 9-point-Likert rating scale (1: highly natural sounding speech and 9: highly unnatural sounding speech). The children and adolescents who participated as speakers were distributed among 5 age groups (8, 10, 12, 14, and 16 yr.) with 6 boys and 6 girls in each group. Each child demonstrated normal articulation, language, voice, and speech fluency skills. Age and sex comparisons indicated boys' and girls' speech was rated comparably; however, 8-yr.-olds' speech was rated as significantly less natural than those of 12-, 14-, and 16-yr.-olds. Preliminary ratings of Speech Naturalness for normal speaking children were presented. Suggestions for the clinical application of the findings as a target criterion in treatment programs with communicatively impaired children were suggested. Replication with a larger and more representative sample is in order.
+%Z Comparative Study
+Journal Article
+Comparative Study
+Journal Article
+%~ PubMed
+
+
+%0 Journal Article
+%T A Survey of Using Vocal Prosody to Convey Emotion in Robot Speech
+%A Crumpton, Joe
+%A Bethel, Cindy L.
+%D 2016
+%J International Journal of Social Robotics
+%@ 1875-4791
+%N 2
+%V 8
+%P 271–285
+%R 10.1007/s12369-015-0329-4
+%Z PII:  329
+%~ CrossRef
+
+
+%0 Journal Article
+%T Measuring the phonological (un)naturalness of selected alternation patterns in Polish
+%A Czaplicki, Bartłomiej
+%D 2019
+%J Language Sciences
+%@ 03880001
+%V 72
+%P 160–187
+%R 10.1016/j.langsci.2018.10.002
+%Z PII:  S0388000117303716
+%~ CrossRef
+
+
+%0 Book
+%A Diel, Alexander
+%A Lewis, Michael
+%D 2023
+%T The vocal uncanny valley: Deviation from typical organic voices best explains uncanniness
+%R 10.21203/rs.3.rs-2784067/v1
+%~ CrossRef
+
+
+%0 Journal Article
+%T Neuronal and behavioral affective perceptions of human and naturalness-reduced emotional prosodies
+%A Duville, Mathilde Marie
+%A Alonso-Valerdi, Luz María
+%A Ibarra-Zarate, David I.
+%D 2022
+%J Frontiers in computational neuroscience
+%@ 1662-5188
+%V 16
+%P 1022787
+%G eng
+%7 18.11.2022
+%R 10.3389/fncom.2022.1022787
+%2 36465969
+%X Artificial voices are nowadays embedded into our daily lives with latest neural voices approaching human voice consistency (naturalness). Nevertheless, behavioral, and neuronal correlates of the perception of less naturalistic emotional prosodies are still misunderstood. In this study, we explored the acoustic tendencies that define naturalness from human to synthesized voices. Then, we created naturalness-reduced emotional utterances by acoustic editions of human voices. Finally, we used Event-Related Potentials (ERP) to assess the time dynamics of emotional integration when listening to both human and synthesized voices in a healthy adult sample. Additionally, listeners rated their perceptions for valence, arousal, discrete emotions, naturalness, and intelligibility. Synthesized voices were characterized by less lexical stress (i.e., reduced difference between stressed and unstressed syllables within words) as regards duration and median pitch modulations. Besides, spectral content was attenuated toward lower F2 and F3 frequencies and lower intensities for harmonics 1 and 4. Both psychometric and neuronal correlates were sensitive to naturalness reduction. (1) Naturalness and intelligibility ratings dropped with emotional utterances synthetization, (2) Discrete emotion recognition was impaired as naturalness declined, consistent with P200 and Late Positive Potentials (LPP) being less sensitive to emotional differentiation at lower naturalness, and (3) Relative P200 and LPP amplitudes between prosodies were modulated by synthetization. Nevertheless, (4) Valence and arousal perceptions were preserved at lower naturalness, (5) Valence (arousal) ratings correlated negatively (positively) with Higuchi's fractal dimension extracted on neuronal data under all naturalness perturbations, (6) Inter-Trial Phase Coherence (ITPC) and standard deviation measurements revealed high inter-individual heterogeneity for emotion perception that is still preserved as naturalness reduces. Notably, partial between-participant synchrony (low ITPC), along with high amplitude dispersion on ERPs at both early and late stages emphasized miscellaneous emotional responses among subjects. In this study, we highlighted for the first time both behavioral and neuronal basis of emotional perception under acoustic naturalness alterations. Partial dependencies between ecological relevance and emotion understanding outlined the modulation but not the annihilation of emotional integration by synthetization.
+%Z Journal Article
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+%~ PubMed
+
+
+%0 Journal Article
+%T Direct Magnitude Estimation and Interval Scaling of Naturalness and Severity in Tracheoesophageal (TE) Speakers
+%A Eadie, Tanya L.
+%A Doyle, Philip C.
+%D 2002
+%J J Speech Lang Hear Res
+%@ 1558-9102 (Electronic) 1092-4388 (Linking)
+%N 6
+%V 45
+%P 1088–1096
+%R 10.1044/1092-4388(2002/087)
+%~ CrossRef
+
+
+%0 Journal Article
+%T Influence of speaker gender on listener judgments of tracheoesophageal speech
+%A Eadie, Tanya L.
+%A Doyle, Philip C.
+%A Hansen, Kerry
+%A Beaudin, Paul G.
+%D 2008
+%J Journal of Voice
+%@ 0892-1997
+%N 1
+%V 22
+%P 43–57
+%G eng
+%7 18.10.2006
+%R 10.1016/j.jvoice.2006.08.008
+%2 17055223
+%X The objectives of this prospective and exploratory study are to determine: (1) naïve listener preference for gender in tracheoesophageal (TE) speech when speech severity is controlled; (2) the accuracy of identifying TE speaker gender; (3) the effects of gender identification on judgments of speech acceptability (ACC) and naturalness (NAT); and (4) the acoustic basis of ACC and NAT judgments. Six male and six female adult TE speakers were matched for speech severity. Twenty naïve listeners made auditory-perceptual judgments of speech samples in three listening sessions. First, listeners performed preference judgments using a paired comparison paradigm. Second, listeners made judgments of speaker gender, speech ACC, and NAT using rating scales. Last, listeners made ACC and NAT judgments when speaker gender was provided coincidentally. Duration, frequency, and spectral measures were performed. No significant differences were found for preference of male or female speakers. All male speakers were accurately identified, but only two of six female speakers were accurately identified. Significant interactions were found between gender and listening condition (gender known) for NAT and ACC judgments. Males were judged more natural when gender was known; female speakers were judged less natural and less acceptable when gender was known. Regression analyses revealed that judgments of female speakers were best predicted with duration measures when gender was unknown, but with spectral measures when gender was known; judgments of males were best predicted with spectral measures. Naïve listeners have difficulty identifying the gender of female TE speakers. Listeners show no preference for speaker gender, but when gender is known, female speakers are least acceptable and natural. The nature of the perceptual task may affect the acoustic basis of listener judgments.
+%Z Journal Article
+%~ PubMed
+
+
+%0 Journal Article
+%T Do Prosody and Embodiment Influence the Perceived Naturalness of Conversational Agents’ Speech?
+%A Ehret, Jonathan
+%A Bönsch, Andrea
+%A Aspöck, Lukas
+%A Röhr, Christine T.
+%A Baumann, Stefan
+%A Grice, Martine
+%A Fels, Janina
+%A Kuhlen, Torsten W.
+%D 2021
+%J ACM Transactions on Applied Perception
+%@ 1544-3558
+%N 4
+%V 18
+%P 1–15
+%R 10.1145/3486580
+%~ CrossRef
+
+
+%0 Journal Article
+%T Speech restructuring group treatment for 6-to-9-year-old children who stutter: A therapeutic trial
+%A Euler, Harald A.
+%A Merkel, Anna
+%A Hente, Katja
+%A Neef, Nicole
+%A Wolff von Gudenberg, Alexander
+%A Neumann, Katrin
+%D 2021
+%J Journal of communication disorders
+%V 89
+%P 106073
+%G eng
+%7 29.12.2020
+%R 10.1016/j.jcomdis.2020.106073
+%2 33444874
+%X For children who stutter (CWS), there is good evidence of the benefits of treatment for pre-school age, but an evidence gap for elementary school age. Here we report on the effectiveness of a fluency shaping treatment for 6- to 9-year-old children. The main treatment component is the reinforcement of soft voice onsets. An intensive in-patient group treatment phase lasts 6 days, followed by a 6-month maintenance phase with 3 in-patient weekend group refresher courses. Child and a parent participate together in various treatment activities. In this controlled intervention study (waitlist control, intention-to-treat design) assessments were performed before treatment (T1), 4 weeks after the intensive phase (T2), at the end of the maintenance phase (T3), and 1 year later (T4). Participants were 119 children (108 boys, 11 girls, age 5.5‑10.4 years). Control conditions included a subgroup with delayed treatment (N=25) as well as the assessment of complexity of utterances, inter-rater reliability, and speech naturalness. From before treatment to 1-year follow-up, percent stuttered syllables and OASES-S (Overall Assessment of the Speaker's Experience with Stuttering - School-age) scores decreased with large effect size. Speech naturalness improved during this period but did not reach the level of non-stuttering children. Complexity of utterances increased during the intensive phase, but only temporarily. Twenty children (16.8 %, including dropouts) showed no demonstrable treatment benefit. Fluency shaping treatment can be effectively applied to young school children. It is assumed that parental support, group therapy, intensive treatment, and regular exercises at home are essential.
+%Z Controlled Clinical Trial
+Journal Article
+%~ PubMed
+
+
+%0 Book Section
+%@ 9781450310635
+%A Eyssel, Friederike
+%A Kuchenbrandt, Dieta
+%A Bobinger, Simon
+%A Ruiter, Laura de
+%A Hegel, Frank
+%E Yanco, Holly
+%E Steinfeld, Aaron
+%E Evers, Vanessa
+%E Jenkins, Odest Chadwicke
+%T 'If you sound like me, you must be more human'
+%B HRI' 12
+%D 2012
+%C New York
+%I Association for Computing Machinery
+%P 125–126
+%R 10.1145/2157689.2157717
+%~ CrossRef
+
+
+%0 Book Section
+%@ 9781450386197
+%A Ferstl, Ylva
+%A Thomas, Sean
+%A Guiard, Cédric
+%A Ennis, Cathy
+%A McDonnell, Rachel
+%T Human or Robot? Investigating voice, appearance and gesture motion realism of conversational social agents
+%B Proceedings of the 21th ACM International Conference on Intelligent Virtual Agents
+%D 2021
+%C New York, NY, USA
+%I ACM
+%P 76–83
+%R 10.1145/3472306.3478338
+%~ CrossRef
+
+
+%0 Journal Article
+%T When a Talking-Face Computer Agent is Half-Human and Half-Humanoid: Human Identity and Consistency Preference
+%A Gong, Li
+%A Nass, Clifford
+%D 2007
+%J Human Communication Research
+%@ 0360-3989
+%N 2
+%V 33
+%P 163–193
+%R 10.1111/j.1468-2958.2007.00295.x
+%~ CrossRef
+
+
+%0 Journal Article
+%T Effects of age on speech and voice quality ratings
+%A Goy, Huiwen
+%A Kathleen Pichora-Fuller, M.
+%A van Lieshout, Pascal
+%D 2016
+%J The Journal of the Acoustical Society of America
+%N 4
+%V 139
+%P 1648
+%G eng
+%R 10.1121/1.4945094
+%2 27106312
+%X The quality of communication may be affected by listeners' perception of talkers' characteristics. This study examined if there were effects of talker and listener age on the perception of speech and voice qualities. Younger and older listeners judged younger and older talkers' gender and age, then rated speech samples on pleasantness, naturalness, clarity, ease of understanding, loudness, and the talker's suitability to be an audiobook reader. For the same talkers, listeners also rated voice samples on pleasantness, roughness, and power. Younger and older talkers were perceived to be similar on most qualities except age. Younger and older listeners rated talkers similarly, except that younger listeners perceived younger voices to be more pleasant and less rough than older voices. For vowel samples, younger listeners were more accurate than older listeners at age estimation, while older listeners were more accurate than younger listeners at gender identification, suggesting that younger and older listeners differ in their evaluation of specific talker characteristics. Thus, the perception of quality was generally more affected by the age of the listener than the age of the talker, and age-related differences between listeners depended on whether voice or speech samples were used and the rating being made.
+%Z Journal Article
+Research Support, Non-U.S. Gov't
+%~ PubMed
+
+
+%0 Journal Article
+%T Acoustic Predictors of Gender Attribution, Masculinity-Femininity, and Vocal Naturalness Ratings Amongst Transgender and Cisgender Speakers
+%A Hardy, Teresa L. D.
+%A Rieger, Jana M.
+%A Wells, Kristopher
+%A Boliek, Carol A.
+%D 2020
+%J Journal of Voice
+%@ 0892-1997
+%N 2
+%V 34
+%P 300.e11–300.e26
+%G eng
+%7 28.11.2018
+%R 10.1016/j.jvoice.2018.10.002
+%2 30503396
+%X PURPOSE
+This study aimed to identify the most salient set of acoustic predictors of (1) gender attribution; (2) perceived masculinity-femininity; and (3) perceived vocal naturalness amongst a group of transgender and cisgender speakers to inform voice and communication feminization training programs. This study used a unique set of acoustic variables and included a third, androgynous, choice for gender attribution ratings.
+METHOD
+Data were collected across two phases and involved two separate groups of participants: communicators and raters. In the first phase, audio recordings were captured of communicators (n = 40) during cartoon retell, sustained vowel, and carrier phrase tasks. Acoustic measures were obtained from these recordings. In the second phase, raters (n = 20) provided ratings of gender attribution, perceived masculinity-femininity, and vocal naturalness based on a sample of the cartoon description recording.
+RESULTS
+Results of a multinomial logistic regression analysis identified mean fundamental frequency (fo) as the sole acoustic measure that changed the odds of being attributed as a woman or ambiguous in gender rather than as a man. Multiple linear regression analyses identified mean fo, average formant frequency of /i/, and mean sound pressure level as predictors of masculinity-femininity ratings and mean fo, average formant frequency, and rate of speech as predictors of vocal naturalness ratings.
+CONCLUSION
+The results of this study support the continued targeting of fo and vocal tract resonance in voice and communication feminization/masculinization training programs and provide preliminary evidence for more emphasis being placed on vocal intensity and rate of speech. Modification of these voice parameters may help clients to achieve a natural-sounding voice that satisfactorily represents their affirmed gender.
+%Z Comparative Study
+Journal Article
+%~ PubMed
+
+
+%0 Journal Article
+%T Sympathy for the digital: Influence of synthetic voice on affinity, social presence and empathy for photorealistic virtual humans
+%A Higgins, Darragh
+%A Zibrek, Katja
+%A Cabral, Joao
+%A Egan, Donal
+%A McDonnell, Rachel
+%D 2022
+%J Computers & Graphics
+%@ 00978493
+%V 104
+%P 116–128
+%R 10.1016/j.cag.2022.03.009
+%Z PII:  S0097849322000474
+%~ CrossRef
+
+
+%0 Journal Article
+%T Dual humanness and trust in conversational AI: A person-centered approach
+%A Hu, Peng
+%A Lu, Yaobin
+%A Gong, Yeming
+%D 2021
+%J Computers in Human Behavior
+%@ 07475632
+%V 119
+%P 106727
+%R 10.1016/j.chb.2021.106727
+%Z PII:  S0747563221000492
+%~ CrossRef
+
+
+%0 Journal Article
+%T Production and perception of emotional prosody by adults with autism spectrum disorder
+%A Hubbard, Daniel J.
+%A Faso, Daniel J.
+%A Assmann, Peter F.
+%A Sasson, Noah J.
+%D 2017
+%J Autism Res
+%@ 1939-3806 (Electronic) 1939-3806 (Linking)
+%N 12
+%V 10
+%P 1991–2001
+%G eng
+%7 17.08.2017
+%R 10.1002/aur.1847
+%2 28815940
+%X UNLABELLED
+This study examined production and perception of affective prosody by adults with autism spectrum disorder (ASD). Previous research has reported increased pitch variability in talkers with ASD compared to typically developing (TD) controls in grammatical speaking tasks (e.g., comparing interrogative vs. declarative sentences), but it is unclear whether this pattern extends to emotional speech. In this study, speech recordings in five emotion contexts (angry, happy, interested, sad, and neutral) were obtained from 15 adult males with ASD and 15 controls (Experiment 1), and were later presented to 52 listeners (22 with ASD) who were asked to identify the emotion expressed and rate the level of naturalness of the emotion in each recording (Experiment 2). Compared to the TD group, talkers with ASD produced phrases with greater intensity, longer durations, and increased pitch range for all emotions except neutral, suggesting that their greater pitch variability was specific to emotional contexts. When asked to identify emotion from speech, both groups of listeners were more accurate at identifying the emotion context from speech produced by ASD speakers compared to TD speakers, but rated ASD emotional speech as sounding less natural. Collectively, these results reveal differences in emotional speech production in talkers with ASD that provide an acoustic basis for reported perceptions of oddness in the speech presentation of adults with ASD. Autism Res 2017, 10: 1991-2001. © 2017 International Society for Autism Research, Wiley Periodicals, Inc.
+LAY SUMMARY
+This study examined emotional speech communication produced and perceived by adults with autism spectrum disorder (ASD) and typically-developing (TD) controls. Compared to the TD group, talkers with ASD produced emotional phrases that were louder, longer, and more variable in pitch. Both ASD and TD listeners were more accurate at identifying emotion in speech produced by ASD speakers compared to TD speakers, but rated ASD emotional speech as sounding less natural.
+%Z Journal Article
+%~ PubMed
+
+
+%0 Journal Article
+%T Subjective responses to synthesised speech with lexical emotional content: the effect of the naturalness of the synthetic voice
+%A Ilves, Mirja
+%A Surakka, Veikko
+%D 2013
+%J Behaviour & Information Technology
+%@ 0144-929X
+%N 2
+%V 32
+%P 117–131
+%R 10.1080/0144929X.2012.702285
+%~ CrossRef
+
+
+%0 Book Section
+%A Ilves, Mirja
+%A Surakka, Veikko
+%A Vanhala, Toni
+%T The Effects of Emotionally Worded Synthesized Speech on the Ratings of Emotions and Voice Quality
+%D 2011
+%I Springer, Berlin, Heidelberg
+%G en
+%P 588–598
+%U https://link.springer.com/chapter/10.1007/978-3-642-24600-5_62
+%R 10.1007/978-3-642-24600-5_62
+%X The present research investigated how the verbal content of synthetic messages affects participants’ emotional responses and the ratings of voice quality. 28 participants listened to emotionally...
+%~ link.springer.com
+
+
+%0 Journal Article
+%T Let voice assistants sound like a machine: Voice and task type effects on perceived fluency, competence, and consumer attitude
+%A Im, Hyunjoo
+%A Sung, Billy
+%A Lee, Garim
+%A Xian Kok, Keegan Qi
+%D 2023
+%J Computers in Human Behavior
+%@ 07475632
+%V 145
+%P 107791
+%R 10.1016/j.chb.2023.107791
+%Z PII:  S0747563223001425
+%~ CrossRef
+
+
+%0 Journal Article
+%T Effects of Spectral Envelope and Fundamental Frequency Shifts on the Perception of Foreign-Accented Speech
+%A Kapolowicz, Michelle R.
+%A Guest, Daniel R.
+%A Montazeri, Vahid
+%A Baese-Berk, Melissa M.
+%A Assmann, Peter F.
+%D 2022
+%J Language and speech
+%N 2
+%V 65
+%P 418–443
+%G eng
+%7 09.07.2021
+%R 10.1177/00238309211029679
+%2 34240630
+%X To investigate the role of spectral pattern information in the perception of foreign-accented speech, we measured the effects of spectral shifts on judgments of talker discrimination, perceived naturalness, and intelligibility when listening to Mandarin-accented English and native-accented English sentences. In separate conditions, the spectral envelope and fundamental frequency (F0) contours were shifted up or down in three steps using coordinated scale factors (multiples of 8% and 30%, respectively). Experiment 1 showed that listeners perceive spectrally shifted sentences as coming from a different talker for both native-accented and foreign-accented speech. Experiment 2 demonstrated that downward shifts applied to male talkers and the largest upward shifts applied to all talkers reduced the perceived naturalness, regardless of accent. Overall, listeners rated foreign-accented speech as sounding less natural even for unshifted speech. In Experiment 3, introducing spectral shifts further lowered the intelligibility of foreign-accented speech. When speech from the same foreign-accented talker was shifted to simulate five different talkers, increased exposure failed to produce an improvement in intelligibility scores, similar to the pattern observed when listeners actually heard five foreign-accented talkers. Intelligibility of spectrally shifted native-accented speech was near ceiling performance initially, and no further improvement or decrement was observed. These experiments suggest a mechanism that utilizes spectral envelope and F0 cues in a talker-dependent manner to support the perception of foreign-accented speech.
+%Z Journal Article
+%~ PubMed
+
+
+%0 Journal Article
+%T Relationship between acoustic measures and speech naturalness ratings in Parkinson's disease: A within-speaker approach
+%A Klopfenstein, Marie
+%D 2015
+%J Clinical Linguistics & Phonetics
+%N 12
+%V 29
+%P 938–954
+%G eng
+%7 24.09.2015
+%R 10.3109/02699206.2015.1081293
+%2 26403503
+%X This study investigated the acoustic basis of across-utterance, within-speaker variation in speech naturalness for four speakers with dysarthria secondary to Parkinson's disease (PD). Speakers read sentences and produced spontaneous speech. Acoustic measures of fundamental frequency, phrase-final syllable lengthening, intensity and speech rate were obtained. A group of listeners judged speech naturalness using a nine-point Likert scale. Relationships between judgements of speech naturalness and acoustic measures were determined for individual speakers with PD. Relationships among acoustic measures also were quantified. Despite variability between speakers, measures of mean F0, intensity range, articulation rate, average syllable duration, duration of final syllables, vocalic nucleus length of final unstressed syllables and pitch accent of final syllables emerged as possible acoustic variables contributing to within-speaker variations in speech naturalness. Results suggest that acoustic measures correlate with speech naturalness, but in dysarthric speech they depend on the speaker due to the within-speaker variation in speech impairment.
+%Z Journal Article
+%~ PubMed
+
+
+%0 Journal Article
+%T Speech naturalness ratings and perceptual correlates of highly natural and unnatural speech in hypokinetic dysarthria secondary to Parkinson’s disease
+%A Klopfenstein, Marie
+%D 2016
+%J Journal of Interactional Research in Communication Disorders
+%@ 2040-5111
+%N 1
+%V 7
+%P 123–146
+%R 10.1558/jircd.v7i1.27932
+%~ CrossRef
+
+
+%0 Journal Article
+%T The study of speech naturalness in communication disorders: A systematic review of the literature
+%A Klopfenstein, Marie
+%A Bernard, Kelsey
+%A Heyman, Claire
+%D 2020
+%J Clinical Linguistics & Phonetics
+%N 4
+%V 34
+%P 327–338
+%G eng
+%7 28.08.2019
+%R 10.1080/02699206.2019.1652692
+%2 31455101
+%X The concept of speech naturalness is used widely in clinic and research applications. Unfortunately, the lack of consistency in research methods means that comparing findings between studies is difficult at best. In order to better understand the state of research on speech naturalness in communication disorders and quantify these impressions, this study looks at publications from the last 18 years in a systematic manner. A literature search for the exact phrase "speech naturalness" of the PubMed/MEDLINE, EBSCO, and ASHAWire databases was conducted. Articles included in the review were studies of communication and communication disorders published between 1990 and the end of 2014, in English, and in a peer-reviewed journal. 63 articles were selected and coded using a coding sheet adapted from a prior systematic review on intelligibility and cleft palate. Speech naturalness is an object of study in many subfields of communication disorders. Several concerns were raised as a result of the review, including the reliability and validity of measures, inadequate definitions of terminology, lack of detail in method descriptions, and the need to address relationships between naturalness and other variables included in the studies. Future studies should more carefully report methods and operational definitions used and more studies examining the relationship between naturalness and other speech variables in a variety of communication disorders are greatly needed.
+%Z Journal Article
+Systematic Review
+%~ PubMed
+
+
+%0 Journal Article
+%T The Effects of Robot Voices and Appearances on Users’ Emotion Recognition and Subjective Perception
+%A Ko, Sangjin
+%A Barnes, Jaclyn
+%A Dong, Jiayuan
+%A Park, Chung Hyuk
+%A Howard, Ayanna
+%A Jeon, Myounghoon
+%D 2023
+%J International Journal of Humanoid Robotics
+%@ 0219-8436
+%N 01
+%V 20
+%R 10.1142/S0219843623500019
+%~ CrossRef
+
+
+%0 Journal Article
+%T The Human Takes It All: Humanlike Synthesized Voices Are Perceived as Less Eerie and More Likable. Evidence From a Subjective Ratings Study
+%A Kühne, Katharina
+%A Fischer, Martin H.
+%A Zhou, Yuefang
+%D 2020
+%J Frontiers in Neurorobotics
+%@ 1662-5218
+%V 14
+%P 593732
+%G eng
+%7 16.12.2020
+%R 10.3389/fnbot.2020.593732
+%2 33390923
+%X Background: The increasing involvement of social robots in human lives raises the question as to how humans perceive social robots. Little is known about human perception of synthesized voices. Aim: To investigate which synthesized voice parameters predict the speaker's eeriness and voice likability; to determine if individual listener characteristics (e.g., personality, attitude toward robots, age) influence synthesized voice evaluations; and to explore which paralinguistic features subjectively distinguish humans from robots/artificial agents. Methods: 95 adults (62 females) listened to randomly presented audio-clips of three categories: synthesized (Watson, IBM), humanoid (robot Sophia, Hanson Robotics), and human voices (five clips/category). Voices were rated on intelligibility, prosody, trustworthiness, confidence, enthusiasm, pleasantness, human-likeness, likability, and naturalness. Speakers were rated on appeal, credibility, human-likeness, and eeriness. Participants' personality traits, attitudes to robots, and demographics were obtained. Results: The human voice and human speaker characteristics received reliably higher scores on all dimensions except for eeriness. Synthesized voice ratings were positively related to participants' agreeableness and neuroticism. Females rated synthesized voices more positively on most dimensions. Surprisingly, interest in social robots and attitudes toward robots played almost no role in voice evaluation. Contrary to the expectations of an uncanny valley, when the ratings of human-likeness for both the voice and the speaker characteristics were higher, they seemed less eerie to the participants. Moreover, when the speaker's voice was more humanlike, it was more liked by the participants. This latter point was only applicable to one of the synthesized voices. Finally, pleasantness and trustworthiness of the synthesized voice predicted the likability of the speaker's voice. Qualitative content analysis identified intonation, sound, emotion, and imageability/embodiment as diagnostic features. Discussion: Humans clearly prefer human voices, but manipulating diagnostic speech features might increase acceptance of synthesized voices and thereby support human-robot interaction. There is limited evidence that human-likeness of a voice is negatively linked to the perceived eeriness of the speaker.
+%Z Journal Article
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+%~ PubMed
+
+
+%0 Journal Article
+%T Similar impressions of humanness for human and artificial singing voices in autism spectrum disorders
+%A Kuriki, Shinji
+%A Tamura, Yuri
+%A Igarashi, Miki
+%A Kato, Nobumasa
+%A Nakano, Tamami
+%D 2016
+%J Cognition
+%@ 0010-0277 (Print) 0010-0277 (Linking)
+%V 153
+%P 1–5
+%G eng
+%7 19.04.2016
+%R 10.1016/j.cognition.2016.04.004
+%2 27107740
+%X People with autism spectrum disorder (ASD) exhibit impairments in the perception of and orientation to social information related to humans, and some people with ASD show higher preference toward human-like robots than other humans. We speculated that this behavioural bias in people with ASD is caused by a weakness in their perception of humanness. To address this issue, we investigated whether people with ASD detect a subtle difference between the same song sung by human and artificial voices even when the lyrics, melody and rhythm are identical. People without ASD answered that the songs sung by a human voice evoked more impressions of humanness (human-likeness, animateness, naturalness, emotion) and more positive feelings (warmth, familiarity, comfort) than those sung by an artificial voice. In contrast, people with ASD had similar impressions of humanness and positive feelings for the songs sung by the human and artificial voices. The evaluations of musical characteristics (complexity, regularity, brightness) did not differ between people with and without ASD. These results suggest that people with ASD are weak in their ability to perceive psychological attributes of humanness.
+%Z Journal Article
+Research Support, Non-U.S. Gov't
+%~ PubMed
+
+
+%0 Journal Article
+%T The role of the humanisation of smart home speakers in the personalisation–privacy paradox
+%A Lavado-Nalvaiz, Natalia
+%A Lucia-Palacios, Laura
+%A Pérez-López, Raúl
+%D 2022
+%J Electronic Commerce Research and Applications
+%@ 15674223
+%V 53
+%P 101146
+%R 10.1016/j.elerap.2022.101146
+%Z PII:  S1567422322000308
+%~ CrossRef
+
+
+%0 Journal Article
+%T The more humanlike, the better? How speech type and users’ cognitive style affect social responses to computers
+%A Lee, Eun-Ju
+%D 2010
+%J Computers in Human Behavior
+%@ 07475632
+%N 4
+%V 26
+%P 665–672
+%R 10.1016/j.chb.2010.01.003
+%Z PII:  S0747563210000051
+%~ CrossRef
+
+
+%0 Journal Article
+%T Effects of robot gaze and voice human-likeness on users’ subjective perception, visual attention, and cerebral activity in voice conversations
+%A Li, Mingming
+%A Guo, Fu
+%A Wang, Xueshuang
+%A Chen, Jiahao
+%A Ham, Jaap
+%D 2023
+%J Computers in Human Behavior
+%@ 07475632
+%V 141
+%P 107645
+%R 10.1016/j.chb.2022.107645
+%Z PII:  S0747563222004654
+%~ CrossRef
+
+
+%0 Journal Article
+%T Emotion transplantation through adaptation in HMM-based speech synthesis
+%A Lorenzo-Trueba, Jaime
+%A Barra-Chicote, Roberto
+%A San-Segundo, Rubén
+%A Ferreiros, Javier
+%A Yamagishi, Junichi
+%A Montero, Juan M.
+%D 2015
+%J Computer Speech & Language
+%@ 08852308
+%N 1
+%V 34
+%P 292–307
+%R 10.1016/j.csl.2015.03.008
+%Z PII:  S0885230815000376
+%~ CrossRef
+
+
+%0 Journal Article
+%T Leveraging “human-likeness” of robotic service at restaurants
+%A Lu, Lu
+%A Zhang, Pei
+%A Zhang, Tingting
+%D 2021
+%J International Journal of Hospitality Management
+%@ 02784319
+%V 94
+%P 102823
+%R 10.1016/j.ijhm.2020.102823
+%Z PII:  S0278431920303753
+%~ CrossRef
+
+
+%0 Journal Article
+%T Effect of speech dialect on speech naturalness ratings: a systematic replication of Martin, Haroldson, and Triden (1984)
+%A Mackey, L. S.
+%A Finn, P.
+%A Ingham, R. J.
+%D 1997
+%J Journal of Speech, Language, and Hearing Research
+%N 2
+%V 40
+%P 349–360
+%G eng
+%R 10.1044/jslhr.4002.349
+%2 9130203
+%X This study investigated the effect of speech dialect on listeners' speech naturalness ratings by systematically replicating Martin, Haroldson, and Triden's (1984) study using three groups of speaker samples. Two groups consisted of speakers with General American dialect--one with persons who stutter and the other with persons who do not stutter. The third group also consisted of speakers who do not stutter but who spoke non-General American dialect. The results showed that speech naturalness ratings distinguished among the three speaker groups. The variables that appeared to influence speech naturalness ratings were type of dialect, speech fluency, and speaking rate, though they differed across speaker groups. The findings also suggested that strength of speech dialect may be a scaleable dimension that judges can rate with acceptable levels of reliability. Dialect may also be an important factor that needs to be incorporated or controlled within systems designed to train speech naturalness ratings. It may also be an important factor in determining the extent to which stuttering treatment produces natural sounding speech.
+%Z Comparative Study
+Journal Article
+Research Support, U.S. Gov't, P.H.S.
+%~ PubMed
+
+
+%0 Book
+%A Malisz, Zofia
+%A Henter, Gustav Eje
+%A Valentini-Botinhao, Cassia
+%A Watts, Oliver
+%A Beskow, Jonas
+%A Gustafson, Joakim
+%D 2020
+%T Modern speech synthesis for phonetic sciences: a discussion and an evaluation
+%I Center for Open Science
+%R 10.31234/osf.io/dxvhc
+%~ CrossRef
+
+
+%0 Journal Article
+%T Why Do People Use Artificial Intelligence (AI)-Enabled Voice Assistants?
+%A Malodia, Suresh
+%A Islam, Nazrul
+%A Kaur, Puneet
+%A Dhir, Amandeep
+%D 2022
+%J IEEE Transactions on Engineering Management
+%@ 0018-9391
+%P 1–15
+%R 10.1109/TEM.2021.3117884
+%~ CrossRef
+
+
+%0 Book Section
+%A Maniati, Georgia
+%A Vioni, Alexandra
+%A Ellinas, Nikolaos
+%A Nikitaras, Karolos
+%A Klapsas, Konstantinos
+%A Sung, June Sig
+%A Jho, Gunu
+%A Chalamandaris, Aimilios
+%A Tsiakoulis, Pirros
+%T SOMOS: The Samsung Open MOS Dataset for the Evaluation of Neural Text-to-Speech Synthesis
+%B Interspeech 2022
+%C ISCA
+%I ISCA
+%P 2388–2392
+%R 10.21437/Interspeech.2022-10922
+%~ CrossRef
+
+
+%0 Journal Article
+%T Stuttering and speech naturalness
+%A Martin, R. R.
+%A Haroldson, S. K.
+%A Triden, K. A.
+%D 1984
+%J The Journal of speech and hearing disorders
+%@ 0022-4677
+%N 1
+%V 49
+%P 53–58
+%G eng
+%R 10.1044/jshd.4901.53
+%2 6700202
+%X The present study was concerned with the development and evaluation of a scale of speech naturalness. Speech samples were recorded of the typical speech of 10 stutterers, 10 stutterers speaking without stuttering under 250-ms delayed auditory feedback (DAF), and 10 nonstutterers speaking normally. Using a 9-point scale, 30 unsophisticated listeners judged how natural the speech sounded in each sample. Results indicated that the stutterer samples were judged as sounding significantly more unnatural than the nonstutterer samples, and the DAF stutter-free samples were judged as sounding significantly more unnatural than the nonstutterer samples. The stutterer and DAF stutter-free samples were not judged as sounding significantly different in terms of speech naturalness. Interrater reliability, interrater agreement, and rater consistency for judging speech naturalness were all satisfactory.
+%Z Journal Article
+Research Support, Non-U.S. Gov't
+%~ PubMed
+
+
+%0 Journal Article
+%T Speaker anonymization by modifying fundamental frequency and x-vector singular value
+%A Mawalim, Candy Olivia
+%A Galajit, Kasorn
+%A Karnjana, Jessada
+%A Kidani, Shunsuke
+%A Unoki, Masashi
+%D 2022
+%J Computer Speech & Language
+%@ 08852308
+%V 73
+%P 101326
+%R 10.1016/j.csl.2021.101326
+%Z PII:  S0885230821001194
+%~ CrossRef
+
+
+%0 Journal Article
+%T Listeners’ weighting of acoustic cues to synthetic speech naturalness: A multidimensional scaling analysis
+%A Mayo, Catherine
+%A Clark, Robert A. J.
+%A King, Simon
+%D 2011
+%J Speech Communication
+%@ 0167-6393
+%N 3
+%V 53
+%P 311–326
+%R 10.1016/j.specom.2010.10.003
+%Z PII:  S0167639310001627
+%~ CrossRef
+
+
+%0 Book Section
+%@ 978-1-5386-8555-6
+%A McGinn, Conor
+%A Torre, Ilaria
+%T Can you Tell the Robot by the Voice? An Exploratory Study on the Role of Voice in the Perception of Robots
+%B 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+%I IEEE
+%P 211–221
+%R 10.1109/HRI.2019.8673305
+%~ CrossRef
+
+
+%0 Journal Article
+%T Impact of Aberrant Acoustic Properties on the Perception of Sound Quality in Electrolarynx Speech
+%A Meltzner, Geoffrey S.
+%A Hillman, Robert E.
+%D 2005
+%J J Speech Lang Hear Res
+%@ 1558-9102 (Electronic) 1092-4388 (Linking)
+%N 4
+%V 48
+%P 766–779
+%R 10.1044/1092-4388(2005/053)
+%~ CrossRef
+
+
+%0 Journal Article
+%T Perceptual Evaluation of Speech Naturalness in Speakers of Varying Gender Identities
+%A Merritt, Brandon
+%A Bent, Tessa
+%D 2020
+%J J Speech Lang Hear Res
+%@ 1558-9102 (Electronic) 1092-4388 (Linking)
+%N 7
+%V 63
+%P 2054–2069
+%G eng
+%7 29.06.2020
+%R 10.1044/2020_JSLHR-19-00337
+%2 32598195
+%X Purpose The purpose of this study was to investigate how speech naturalness relates to masculinity-femininity and gender identification (accuracy and reaction time) for cisgender male and female speakers as well as transmasculine and transfeminine speakers. Method Stimuli included spontaneous speech samples from 20 speakers who are transgender (10 transmasculine and 10 transfeminine) and 20 speakers who are cisgender (10 male and 10 female). Fifty-two listeners completed three tasks: a two-alternative forced-choice gender identification task, a speech naturalness rating task, and a masculinity/femininity rating task. Results Transfeminine and transmasculine speakers were rated as significantly less natural sounding than cisgender speakers. Speakers rated as less natural took longer to identify and were identified less accurately in the gender identification task; furthermore, they were rated as less prototypically masculine/feminine. Conclusions Perceptual speech naturalness for both transfeminine and transmasculine speakers is strongly associated with gender cues in spontaneous speech. Training to align a speaker's voice with their gender identity may concurrently improve perceptual speech naturalness. Supplemental Material https://doi.org/10.23641/asha.12543158.
+%Z Journal Article
+Research Support, Non-U.S. Gov't
+%~ PubMed
+
+
+%0 Journal Article
+%T How do people respond to computer-generated versus human faces? A systematic review and meta-analyses
+%A Miller, Elizabeth J.
+%A Foo, Yong Zhi
+%A Mewton, Paige
+%A Dawel, Amy
+%D 2023
+%J Computers in Human Behavior Reports
+%@ 24519588
+%P 100283
+%R 10.1016/j.chbr.2023.100283
+%Z PII:  S2451958823000167
+%~ CrossRef
+
+
+%0 Journal Article
+%T A mismatch in the human realism of face and voice produces an uncanny valley
+%A Mitchell, Wade J.
+%A Szerszen, Kevin A.
+%A Lu, Amy Shirong
+%A Schermerhorn, Paul W.
+%A Scheutz, Matthias
+%A Macdorman, Karl F.
+%D 2011
+%J i-Perception
+%N 1
+%V 2
+%P 10–12
+%G eng
+%7 01.03.2011
+%R 10.1068/i0415
+%2 23145223
+%X The uncanny valley has become synonymous with the uneasy feeling of viewing an animated character or robot that looks imperfectly human. Although previous uncanny valley experiments have focused on relations among a character's visual elements, the current experiment examines whether a mismatch in the human realism of a character's face and voice causes it to be evaluated as eerie. The results support this hypothesis.
+%Z Journal Article
+%~ PubMed
+
+
+%0 Journal Article
+%T Perceived naturalness of spectrally distorted speech and music
+%A Moore, Brian C. J.
+%A Tan, Chin-Tuan
+%D 2003
+%J The Journal of the Acoustical Society of America
+%N 1
+%V 114
+%P 408–419
+%G eng
+%R 10.1121/1.1577552
+%2 12880052
+%X We determined how the perceived naturalness of music and speech (male and female talkers) signals was affected by various forms of linear filtering, some of which were intended to mimic the spectral "distortions" introduced by transducers such as microphones, loudspeakers, and earphones. The filters introduced spectral tilts and ripples of various types, variations in upper and lower cutoff frequency, and combinations of these. All of the differently filtered signals (168 conditions) were intermixed in random order within one block of trials. Levels were adjusted to give approximately equal loudness in all conditions. Listeners were required to judge the perceptual quality (naturalness) of the filtered signals on a scale from 1 to 10. For spectral ripples, perceived quality decreased with increasing ripple density up to 0.2 ripple/ERB(N) and with increasing ripple depth. Spectral tilts also degraded quality, and the effects were similar for positive and negative tilts. Ripples and/or tilts degraded quality more when they extended over a wide frequency range (87-6981 Hz) than when they extended over subranges. Low- and mid-frequency ranges were roughly equally important for music, but the mid-range was most important for speech. For music, the highest quality was obtained for the broadband signal (55-16,854 Hz). Increasing the lower cutoff frequency from 55 Hz resulted in a clear degradation of quality. There was also a distinct degradation as the upper cutoff frequency was decreased from 16,845 Hz. For speech, there was a marked degradation when the lower cutoff frequency was increased from 123 to 208 Hz and when the upper cutoff frequency was decreased from 10,869 Hz. Typical telephone bandwidth (313 to 3547 Hz) gave very poor quality.
+%Z Journal Article
+Research Support, Non-U.S. Gov't
+%~ PubMed
+
+
+%0 Journal Article
+%T Measuring the naturalness of synthetic speech
+%A Nusbaum, Howard C.
+%A Francis, Alexander L.
+%A Henly, Anne S.
+%D 1997
+%J International Journal of Speech Technology
+%@ 1381-2416 1572-8110
+%N 1
+%V 2
+%P 7–19
+%~ EndNote Tagged Import Format
+
+
+%0 Journal Article
+%T Perceived naturalness of emotional voice morphs
+%A Nussbaum, Christine
+%A Pöhlmann, Manuel
+%A Kreysa, Helene
+%A Schweinberger, Stefan R.
+%D 2023
+%J Cognition & Emotion
+%P 1–17
+%G eng
+%7 27.04.2023
+%R 10.1080/02699931.2023.2200920
+%2 37104118
+%X Research into voice perception benefits from manipulation software to gain experimental control over acoustic expression of social signals such as vocal emotions. Today, parameter-specific voice morphing allows a precise control of the emotional quality expressed by single vocal parameters, such as fundamental frequency (F0) and timbre. However, potential side effects, in particular reduced naturalness, could limit ecological validity of speech stimuli. To address this for the domain of emotion perception, we collected ratings of perceived naturalness and emotionality on voice morphs expressing different emotions either through F0 or Timbre only. In two experiments, we compared two different morphing approaches, using either neutral voices or emotional averages as emotionally non-informative reference stimuli. As expected, parameter-specific voice morphing reduced perceived naturalness. However, perceived naturalness of F0 and Timbre morphs were comparable with averaged emotions as reference, potentially making this approach more suitable for future research. Crucially, there was no relationship between ratings of emotionality and naturalness, suggesting that the perception of emotion was not substantially affected by a reduction of voice naturalness. We hold that while these findings advocate parameter-specific voice morphing as a suitable tool for research on vocal emotion perception, great care should be taken in producing ecologically valid stimuli.
+%Z Journal Article
+%~ PubMed
+
+
+%0 Journal Article
+%T Designing Empathic Virtual Agents: Manipulating Animation, Voice, Rendering, and Empathy to Create Persuasive Agents
+%A Parmar, Dhaval
+%A Olafsson, Stefan
+%A Utami, Dina
+%A Murali, Prasanth
+%A Bickmore, Timothy
+%D 2022
+%J Autonomous agents and multi-agent systems
+%@ 1387-2532
+%N 1
+%V 36
+%G eng
+%7 22.02.2022
+%R 10.1007/s10458-021-09539-1
+%2 35387204
+%X Designers of virtual agents have a combinatorically large space of choices for the look and behavior of their characters. We conducted two between-subjects studies to explore the systematic manipulation of animation quality, speech quality, rendering style, and simulated empathy, and its impact on perceptions of virtual agents in terms of naturalness, engagement, trust, credibility, and persuasion within a health counseling domain. In the first study, animation was varied between manually created, procedural, or no animations; voice quality was varied between recorded audio and synthetic speech; and rendering style was varied between realistic and toon-shaded. In the second study, simulated empathy of the agent was varied between no empathy, verbal-only empathic responses, and full empathy involving verbal, facial, and immediacy feedback. Results show that natural animations and recorded voice are more appropriate for the agent's general acceptance, trust, credibility, and appropriateness for the task. However, for a brief health counseling task, animation might actually be distracting from the persuasive message, with the highest levels of persuasion found when the amount of agent animation is minimized. Further, consistent and high levels of empathy improve agent perception but may interfere with forming a trusting bond with the agent.
+%Z Journal Article
+Conflict of interest The authors declare that they have no conflict of interest.
+%~ PubMed
+
+
+%0 Journal Article
+%T Effect of source filter interaction on isolated vowel-consonant-vowel perception
+%A Rao M V, Achuth
+%A Victory J, Shiny
+%A Ghosh, Prasanta Kumar
+%D 2018
+%J The Journal of the Acoustical Society of America
+%N 2
+%V 144
+%P EL95
+%G eng
+%R 10.1121/1.5049510
+%2 30180658
+%X Source-filter interaction explains the drop in pitch in voiced consonant due to constriction in the vocal tract during vowel-consonant-vowel (VCV) production. In this work, a perceptual study is conducted where the pitch contour in the voiced consonant region is modified to four different levels and a listening test is performed to assess the naturalness of the VCVs synthesized with the modified pitch contour. The listening test with 30 listeners shows no statistically significant difference between the naturalness of the original and synthesized VCVs with modified pitch indicating that pitch drop due to source-filter interaction may not be critical for the perceived naturalness of VCVs.
+%Z Journal Article
+%~ PubMed
+
+
+%0 Journal Article
+%T Factors influencing ratings of speech naturalness in augmentative and alternative communication
+%A Ratcliff, Ann
+%A Coughlin, Sue
+%A Lehman, Mark
+%D 2002
+%J Augmentative and Alternative Communication
+%@ 0743-4618
+%N 1
+%V 18
+%P 11–19
+%R 10.1080/aac.18.1.11.19
+%~ CrossRef
+
+
+%0 Journal Article
+%T Effectiveness, attention, and recall of human and artificial voices in an advertising story. Prosody influence and functions of voices
+%A Rodero, Emma
+%D 2017
+%J Computers in Human Behavior
+%@ 07475632
+%V 77
+%P 336–346
+%R 10.1016/j.chb.2017.08.044
+%Z PII:  S0747563217305058
+%~ CrossRef
+
+
+%0 Journal Article
+%T Synthetic versus human voices in audiobooks: The human emotional intimacy effect
+%A Rodero, Emma
+%A Lucas, Ignacio
+%D 2023
+%J New Media & Society
+%@ 1461-4448
+%N 7
+%V 25
+%P 1746–1764
+%R 10.1177/14614448211024142
+%~ CrossRef
+
+
+%0 Book Section
+%@ 978-3-319-10816-2
+%A Romportl, Jan
+%E Horák, Aleš
+%E Sojka, Petr
+%E Kopeček, Ivan
+%E Pala, Karel
+%T Speech Synthesis and Uncanny Valley
+%B Text, speech and dialogue
+%D 2014
+%C Cham (Alemania)
+%I Springer International Publishing
+%S Lecture Notes in Computer Science
+%G en
+%N 8655
+%P 595–602
+%U https://link.springer.com/chapter/10.1007/978-3-319-10816-2_72
+%R 10.1007/978-3-319-10816-2_72
+%X The paper discusses a hypothesis relating high quality text-to-speech (TTS) synthesis in spoken dialogue systems with the concept of “uncanny valley”. It introduces a “Wizard-of-Oz” experiment with 30 volunteers engaged in conversations with...
+%~ link.springer.com
+
+
+%0 Journal Article
+%T Robot Voices in Daily Life: Vocal Human-Likeness and Application Context as Determinants of User Acceptance
+%A Schreibelmayr, Simon
+%A Mara, Martina
+%D 2022
+%J Frontiers in Psychology
+%@ 1664-1078
+%V 13
+%P 787499
+%G eng
+%7 13.05.2022
+%R 10.3389/fpsyg.2022.787499
+%2 35645911
+%X The growing popularity of speech interfaces goes hand in hand with the creation of synthetic voices that sound ever more human. Previous research has been inconclusive about whether anthropomorphic design features of machines are more likely to be associated with positive user responses or, conversely, with uncanny experiences. To avoid detrimental effects of synthetic voice design, it is therefore crucial to explore what level of human realism human interactors prefer and whether their evaluations may vary across different domains of application. In a randomized laboratory experiment, 165 participants listened to one of five female-sounding robot voices, each with a different degree of human realism. We assessed how much participants anthropomorphized the voice (by subjective human-likeness ratings, a name-giving task and an imagination task), how pleasant and how eerie they found it, and to what extent they would accept its use in various domains. Additionally, participants completed Big Five personality measures and a tolerance of ambiguity scale. Our results indicate a positive relationship between human-likeness and user acceptance, with the most realistic sounding voice scoring highest in pleasantness and lowest in eeriness. Participants were also more likely to assign real human names to the voice (e.g., "Julia" instead of "T380") if it sounded more realistic. In terms of application context, participants overall indicated lower acceptance of the use of speech interfaces in social domains (care, companionship) than in others (e.g., information & navigation), though the most human-like voice was rated significantly more acceptable in social applications than the remaining four. While most personality factors did not prove influential, openness to experience was found to moderate the relationship between voice type and user acceptance such that individuals with higher openness scores rated the most human-like voice even more positively. Study results are discussed in the light of the presented theory and in relation to open research questions in the field of synthetic voice design.
+%Z Journal Article
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+%~ PubMed
+
+
+%0 Journal Article
+%T Voice in Human–Agent Interaction
+%A Seaborn, Katie
+%A Miyake, Norihisa P.
+%A Pennefather, Peter
+%A Otake-Matsuura, Mihoko
+%D 2021
+%J ACM Computing Surveys
+%@ 0360-0300
+%N 4
+%V 54
+%P 1–43
+%R 10.1145/3386867
+%~ CrossRef
+
+
+%0 Journal Article
+%T The role of valence, dominance, and pitch in perceptions of artificial intelligence (AI) conversational agents' voices
+%A Shiramizu, Victor Kenji M.
+%A Lee, Anthony J.
+%A Altenburg, Daria
+%A Feinberg, David R.
+%A Jones, Benedict C.
+%D 2022
+%J Scientific reports
+%N 1
+%V 12
+%P 22479
+%G eng
+%7 28.12.2022
+%R 10.1038/s41598-022-27124-8
+%2 36577918
+%X There is growing concern that artificial intelligence conversational agents (e.g., Siri, Alexa) reinforce voice-based social stereotypes. Because little is known about social perceptions of conversational agents' voices, we investigated (1) the dimensions that underpin perceptions of these synthetic voices and (2) the role that acoustic parameters play in these perceptions. Study 1 (N = 504) found that perceptions of synthetic voices are underpinned by Valence and Dominance components similar to those previously reported for natural human stimuli and that the Dominance component was strongly and negatively related to voice pitch. Study 2 (N = 160) found that experimentally manipulating pitch in synthetic voices directly influenced dominance-related, but not valence-related, perceptions. Collectively, these results suggest that greater consideration of the role that voice pitch plays in dominance-related perceptions when designing conversational agents may be an effective method for controlling stereotypic perceptions of their voices and the downstream consequences of those perceptions.
+%Z Journal Article
+Research Support, Non-U.S. Gov't
+The authors declare no competing interests.
+%~ PubMed
+
+
+%0 Journal Article
+%T The Effects of Synthesized Voice Accents on User Perceptions of Robots
+%A Tamagawa, Rie
+%A Watson, Catherine I.
+%A Kuo, I. Han
+%A MacDonald, Bruce A.
+%A Broadbent, Elizabeth
+%D 2011
+%J International Journal of Social Robotics
+%@ 1875-4791
+%N 3
+%V 3
+%P 253–262
+%R 10.1007/s12369-011-0100-4
+%Z PII:  100
+%~ CrossRef
+
+
+%0 Journal Article
+%T Involvement of the left insula in the ecological validity of the human voice
+%A Tamura, Yuri
+%A Kuriki, Shinji
+%A Nakano, Tamami
+%D 2015
+%J Scientific reports
+%V 5
+%P 8799
+%G eng
+%7 05.03.2015
+%R 10.1038/srep08799
+%2 25739519
+%X A subtle difference between a real human and an artificial object that resembles a human evokes an impression of a large qualitative difference between them. This suggests the existence of a neural mechanism that processes the sense of humanness. To examine the presence of such a mechanism, we compared the behavioral and brain responses of participants who listened to human and artificial singing voices created from vocal fragments of a real human voice. The behavioral experiment showed that the song sung by human voices more often elicited positive feelings and feelings of humanness than the same song sung by artificial voices, although the lyrics, melody, and rhythm were identical. Functional magnetic resonance imaging revealed significantly higher activation in the left posterior insula in response to human voices than in response to artificial voices. Insular activation was not merely evoked by differences in acoustic features between the voices. Therefore, these results suggest that the left insula participates in the neural processing of the ecological quality of the human voice.
+%Z Journal Article
+Research Support, Non-U.S. Gov't
+%~ PubMed
+
+
+%0 Book Section
+%@ 978-3-030-49061-4
+%A Urakami, Jacqueline
+%A Sutthithatip, Sujitra
+%A Moore, Billie Akwa
+%E Kurosu, Masaaki
+%T The Effect of Naturalness of Voice and Empathic Responses on Enjoyment, Attitudes and Motivation for Interacting with a Voice User Interface
+%B Human-Computer Interaction. Multimodal and Natural Interaction
+%D 2020
+%C Cham
+%I Springer International Publishing
+%S Lecture Notes in Computer Science
+%P 244–259
+%V 12182
+%R 10.1007/978-3-030-49062-1_17
+%~ CrossRef
+
+
+%0 Journal Article
+%T Perceptual and Acoustic Analysis of Speech in Spinocerebellar ataxia Type 1
+%A van Prooije, Teije
+%A Knuijt, Simone
+%A Oostveen, Judith
+%A Kapteijns, Kirsten
+%A Vogel, Adam P.
+%A van de Warrenburg, Bart
+%D 2023
+%J Cerebellum (London, England)
+%G eng
+%7 12.01.2023
+%R 10.1007/s12311-023-01513-9
+%2 36633828
+%X This study characterizes the speech phenotype of spinocerebellar ataxia type 1 (SCA1) using both perceptual and objective acoustic analysis of speech in a cohort of SCA1 patients. Twenty-seven symptomatic SCA1 patients in various disease stages (SARA score range: 3-32 points) and 18 sex and age matched healthy controls underwent a clinical assessment addressing ataxia severity, non-ataxia signs, cognitive functioning, and speech. Speech samples were perceptually rated by trained speech therapists, and acoustic metrics representing speech timing, vocal control, and voice quality were extracted. Perceptual analysis revealed reduced intelligibility and naturalness in speech samples of SCA1 patients. Acoustically, SCA1 patients presented with slower speech rate and diadochokinetic rate as well as longer syllable duration compared to healthy controls. No distinct abnormalities in voice quality in the acoustic analysis were detected at group level. Both the affected perceptual and acoustic variables correlated with ataxia severity. Longitudinal assessment of speech is needed to place changes in speech in the context of disease progression and potential response to treatment.
+%Z Journal Article
+%~ PubMed
+
+
+%0 Book Section
+%@ 9781450367462
+%A Velner, Ella
+%A Boersma, Paul P.G.
+%A Graaf, Maartje M.A. de
+%E Belpaeme, Tony
+%E Young, James
+%E Gunes, Hatice
+%E Riek, Laurel
+%T Intonation in Robot Speech
+%B Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction
+%D 2020
+%C New York, NY, USA
+%I ACM
+%P 569–578
+%R 10.1145/3319502.3374801
+%~ CrossRef
+
+
+%0 Journal Article
+%T Continuous Vocal Fry Simulated in Laboratory Subjects: A Preliminary Report on Voice Production and Listener Ratings
+%A Venkatraman, Anumitha
+%A Sivasankar, M. Preeti
+%D 2018
+%J American Journal of Speech-language Pathology
+%N 4
+%V 27
+%P 1539–1545
+%G eng
+%R 10.1044/2018_AJSLP-17-0212
+%2 30178028
+%X PURPOSE
+Vocal fry is prevalent in everyday speech. However, whether the use of vocal fry is detrimental to voice production is unclear. This preliminary study assessed the effects of using continuous vocal fry on voice production measures and listener ratings.
+METHOD
+Ten healthy individuals (equal male and female, mean age = 22.4 years) completed 2 counterbalanced sessions. In each session, participants read in continuous vocal fry or habitual voice quality for 30 min at a comfortable intensity. Continuous vocal fry was simulated. Phonation threshold pressure (PTP10 and PTP20), cepstral peak prominence, and vocal effort ratings were obtained before and after the production of each voice quality. Next, 10 inexperienced listeners (equal male and female, mean age = 24.1 years) used visual analog scales to rate paired samples of continuous vocal fry and habitual voice quality for naturalness, employability, and amount of listener concentration.
+RESULTS
+PTP10 and vocal effort ratings increased after 30 min of continuous vocal fry. Inexperienced listeners rated continuous vocal fry more negatively than the habitual voice quality.
+CONCLUSIONS
+Thirty minutes of simulated, continuous vocal fry worsened some voice measures when compared with a habitual voice quality. Samples of continuous vocal fry were rated as significantly less employable, less natural, and requiring greater listener concentration as compared with samples of habitual voice quality. Future studies should include habitual users of vocal fry to investigate speech stimulability and adaptation with cueing to further understand pathogenesis of vocal fry.
+%Z Journal Article
+Research Support, N.I.H., Extramural
+%~ PubMed
+
+
+%0 Journal Article
+%T Speech treatment improves dysarthria in multisystemic ataxia: a rater-blinded, controlled pilot-study in ARSACS
+%A Vogel, Adam P.
+%A Stoll, Lisa H.
+%A Oettinger, Andreas
+%A Rommel, Natalie
+%A Kraus, Eva-Maria
+%A Timmann, Dagmar
+%A Scott, Dion
+%A Atay, Christina
+%A Storey, Elsdon
+%A Schöls, Ludger
+%A Synofzik, Matthis
+%D 2019
+%J Journal of neurology
+%N 5
+%V 266
+%P 1260–1266
+%G eng
+%7 06.03.2019
+%R 10.1007/s00415-019-09258-4
+%2 30840144
+%X We aimed to provide proof-of-principle evidence that intensive home-based speech treatment can improve dysarthria in complex multisystemic degenerative ataxias, exemplified by autosomal recessive spastic ataxia Charlevoix-Saguenay (ARSACS). Feasibility and piloting efficacy of speech training specifically tailored to cerebellar dysarthria was examined through a 4-week program in seven patients with rater-blinded assessment of intelligibility (primary outcome) and naturalness and acoustic measures of speech (secondary outcomes) performed 4 weeks before, immediately prior to, and directly after training (intraindividual control design). Speech intelligibility and naturalness improved post treatment. This provides piloting evidence that ataxia-tailored speech treatment might be effective in degenerative cerebellar disease.
+%Z Journal Article
+Multicenter Study
+%~ PubMed
+
+
+%0 Journal Article
+%T Perturbation Measurements on the Degree of Naturalness of Synthesized Vowels
+%A Yamasaki, Rosiane
+%A Montagnoli, Arlindo
+%A Murano, Emi Z.
+%A Gebrim, Eloisa
+%A Hachiya, Adriana
+%A Lopes da Silva, Jorge Vicente
+%A Behlau, Mara
+%A Tsuji, Domingos
+%D 2017
+%J Journal of Voice
+%@ 0892-1997
+%N 3
+%V 31
+%P 389.e1–389.e8
+%G eng
+%7 21.10.2016
+%R 10.1016/j.jvoice.2016.09.020
+%2 27777057
+%X OBJECTIVE
+To determine the impact of jitter and shimmer on the degree of naturalness perception of synthesized vowels produced by acoustical simulation with glottal pulses (GP) and with solid model of the vocal tract (SMVT).
+STUDY DESIGN
+Prospective study.
+METHODS
+Synthesized vowels were produced in three steps: 1. Eighty GP were developed (20 with jitter, 20 with shimmer, 20 with jitter+shimmer, 20 without perturbation); 2. A SMVT was produced based on magnetic resonance imaging (MRI) from a woman during phonation-/ε/ and using rapid prototyping technology; 3. Acoustic simulations were performed to obtain eighty synthesized vowels-/ε /. Two experiments were performed. First Experiment: three judges rated 120 vowels (20 humans+80 synthesized+20% repetition) as "human" or "synthesized". Second Experiment: twenty PowerPoint slide sequences were created. Each slide had 4 synthesized vowels produced with the four perturbation condition. Evaluators were asked to rate the vowels from the most natural to the most artificial.
+RESULTS
+First Experiment: all the human vowels were classified as human; 27 out of eighty synthesized vowels were rated as human, 15 of those were produced with jitter+shimmer, 10 with jitter, 2 without perturbation and none with shimmer. Second Experiment: Vowels produced with jitter+shimmer were considered as the most natural. Vowels with shimmer and without perturbation were considered as the most artificial.
+CONCLUSIONS
+The association of jitter and shimmer increased the degree of naturalness of synthesized vowels. Acoustic simulations performed with GP and using SMVT demonstrated a possible method to test the effect of the perturbation measurements on synthesized voices.
+%Z Journal Article
+%~ PubMed
+
+
+%0 Journal Article
+%T The effect of rate control on the intelligibility and naturalness of dysarthric speech
+%A Yorkston, Kathryn M.
+%A Hammen, V. L.
+%A Beukelman, David R.
+%A Traynor, C. D.
+%D 1990
+%J The Journal of speech and hearing disorders
+%@ 0022-4677
+%N 3
+%V 55
+%P 550–560
+%G eng
+%R 10.1044/jshd.5503.550
+%2 2381196
+%X Speaking rates of individuals with severe ataxic dysarthria (n = 4) and severe hypokinetic dysarthria (n = 4) were reduced to 60% and 80% of habitual rates using four different pacing strategies (Additive Metered, Additive Rhythmic, Cued Metered, and Cued Rhythmic). Effects of rate control on sentence and phoneme intelligibility and speech naturalness were examined. Sentence intelligibility improved for both groups, with metered pacing conditions associated with the largest improvement in scores. Similar improvements as speaking rates were reduced were not seen for the phoneme intelligibility task; however, one must recognize that sentence and phoneme intelligibility tasks are different. Slowing the rate of dysarthric speakers did not have as marked an impact on speech naturalness as it did for normal speakers whose naturalness decreased at slowed rates. Metered rate control strategies were associated with the lowest ratings of naturalness for all subject groups. A potential explanation for the discrepancies between the findings for sentence and phoneme intelligibility is offered.
+%Z Journal Article
+Research Support, U.S. Gov't, Non-P.H.S.
+Research Support, U.S. Gov't, P.H.S.
+%~ PubMed
+
+

@@ -1,0 +1,13 @@
+https://www.vosviewer.com/
+
+###In Web of Science: 
+Web of Science -> Paper anwählen -> Export -> Plain Text file -> Full record and cited references
+
+
+###In VOSViewer:
+
+Create -> Create map based on bibliographic data -> read data from bibliographic database files -> pick text files (one or more) -> "Citation" -> dont change treshhold -> dont change number of documents -> Finish -> Click "Yes"
+
+OR 
+
+Open -> Map: "naturalness_61_map_VOSViewer.txt"/ Network: "naturalness_61_network_VOSViewer.txt"

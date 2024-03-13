@@ -1,0 +1,419 @@
+﻿id	keyword	occurrences	total link strength
+1	1st impressions	1	12
+2	a cappella	1	5
+3	accent	1	13
+4	acceptability	2	17
+5	acceptability ratings	1	12
+6	acceptance	2	27
+7	acoustic characteristics	1	12
+8	acoustic cue weighting	1	13
+9	acoustic differences	1	13
+10	acoustical measurements	1	11
+11	acoustics	2	24
+12	adolescents	2	31
+13	adults	3	26
+14	affective prosody	2	27
+15	age	1	16
+16	agent	1	9
+17	agent perception	1	10
+18	agents	1	10
+19	alaryngeal speech	2	15
+20	alexa	1	14
+21	alexithymia	1	10
+22	animation fidelity	1	10
+23	anthropomorphism	6	69
+24	aperiodicity	1	14
+25	aphasia	1	8
+26	appearance	2	23
+27	application context	1	15
+28	apraxia	1	9
+29	arousal	2	21
+30	articulatory synthesis	1	10
+31	artificial intelligence	1	14
+32	artificial larynx speech	1	7
+33	artificial voice	1	10
+34	assessment	1	13
+35	ataxic neuropathy	1	9
+36	attention	3	38
+37	attitudes	4	49
+38	attraction	1	14
+39	audiobooks	1	16
+40	audiovisual judgments	1	13
+41	auditory	1	11
+42	auditory adaptation	1	14
+43	auditory discrimination	1	7
+44	autism	1	10
+45	autism spectrum disorder	1	16
+46	automatic personality perception	1	13
+47	automatic personality recognition	1	13
+48	automatic personality synthesis	1	13
+49	avatar	1	12
+50	behavior	1	13
+51	behavioral intentions	1	14
+52	bias	1	0
+53	calculus	1	13
+54	cascade adaptation	1	3
+55	categorization	1	13
+56	characters	1	10
+57	children	5	63
+58	clear	1	9
+59	cleft-palate	1	9
+60	clustering	1	7
+61	co-presence	1	14
+62	cognition	1	13
+63	cognitive processing	1	16
+64	communication	6	63
+65	complex sounds	1	13
+66	comprehension	1	8
+67	computational modeling	1	13
+68	computer	2	30
+69	computer agent	1	24
+70	computer voice	1	24
+71	computer-synthesized speech	1	14
+72	computers are social actors (casa)	1	8
+73	consistency	4	47
+74	consonant mutation	1	12
+75	constraints	1	12
+76	consumer adoption	1	13
+77	conversational agent	1	6
+78	conversational agents	1	24
+79	conversion	1	8
+80	cophonology theory	1	12
+81	copresence	1	8
+82	cortex	1	3
+83	creaky voice	1	5
+84	cues	2	40
+85	different frequency responses	1	6
+86	digital signal processing	1	13
+87	discrimination	1	11
+88	disease	1	6
+89	dynamics	1	11
+90	dysarthria	3	27
+91	dysarthric speech	1	9
+92	e-commerce	1	13
+93	ear	1	6
+94	eeriness	1	15
+95	effectiveness	2	29
+96	elderspeak	1	9
+97	electroencephalography (eeg)	1	11
+98	electrolarynx speech	1	7
+99	embodied agents	1	24
+100	embodied ai	1	24
+101	embodied conversational agent	1	14
+102	emotion	6	65
+103	emotion transplantation	1	3
+104	emotional robot speech	1	8
+105	emotions	3	31
+106	emotive voices	1	6
+107	english	3	38
+108	esophageal speech	1	12
+109	evaluation	1	13
+110	evoked imagery	1	16
+111	experience	1	11
+112	experiences	1	14
+113	experientiality	1	8
+114	experimental tests	1	8
+115	exploratory factor-analysis	1	14
+116	expression	4	48
+117	expressive speech	1	16
+118	expressive speech synthesis	1	3
+119	extrastriate cortex	1	12
+120	eye contact	1	13
+121	eye-tracking	1	13
+122	f0	2	16
+123	face	3	29
+124	facial expressions	1	12
+125	facial-vocal mismatch	1	4
+126	feature manipulation	1	10
+127	features	1	9
+128	feedback	1	10
+129	female	2	21
+130	femininity	1	15
+131	field	1	6
+132	final stop consonants	1	13
+133	finite mixture modeling	1	14
+134	fluency shaping	1	15
+135	fnirs	1	13
+136	foreign-accented speech	1	13
+137	foreign-language	1	13
+138	formant frequencies	1	15
+139	framework	1	24
+140	frequency	1	12
+141	frequency-characteristics	1	12
+142	friedreich ataxia	1	6
+143	fundamental frequency	3	32
+144	fundamental-frequency	3	32
+145	gender	4	61
+146	generative adversarial network	1	12
+147	grammatical complexity	1	15
+148	habituation	2	25
+149	hearing disorders	1	9
+150	hidden markov models	1	13
+151	human and artificial voices	1	14
+152	human realism	3	23
+153	human voice	1	16
+154	human-agent interaction (hai)	1	24
+155	human-computer interaction (hci)	1	24
+156	human-likeness	1	14
+157	human-machine communication (hmc)	1	24
+158	human-robot interaction	4	45
+159	human-robot interaction (hri)	1	24
+160	humanisation	1	13
+161	humanness	1	10
+162	humanness perception	1	14
+163	hypopharyngeal cavities	1	12
+164	identification	3	26
+165	identity	1	14
+166	impact	1	15
+167	impressions	2	18
+168	inconsistency	1	8
+169	individual-differences	2	29
+170	individuality	1	13
+171	individuals	2	19
+172	inference	1	12
+173	information	3	34
+174	information disclosure	1	13
+175	insula	1	10
+176	integration	1	13
+177	intelligibility	7	75
+178	intelligibility scores	1	9
+179	intensity	1	12
+180	intensive voice treatment	2	21
+181	intention	1	13
+182	interface	1	8
+183	internet users	1	13
+184	interspeaker variation	1	15
+185	intonation	3	39
+186	inverse filtering	1	7
+187	jitter	2	19
+188	judgments	1	14
+189	judgments-acoustic measures	1	12
+190	language	1	14
+191	language attitudes	2	21
+192	laryngeal-cancer	2	20
+193	laryngectomee rehabilitation	1	7
+194	laryngectomy speech rehabilitation	1	7
+195	latent profile analysis	1	14
+196	length	2	27
+197	levodopa	1	9
+198	lidcombe-program	1	15
+199	likability	1	14
+200	listener perceptions	1	15
+201	listener preferences	1	6
+202	listeners	1	14
+203	lobe	1	3
+204	long-term	1	15
+205	loudness	1	12
+206	loudspeaker measurements	1	6
+207	lyrics	1	3
+208	magnitude estimation	1	9
+209	markers	1	6
+210	masahiro mori	1	4
+211	matched guise	1	5
+212	memory	1	16
+213	metaanalysis	1	15
+214	mind	1	16
+215	mind perception	1	10
+216	mismatch negativity	1	7
+217	model	6	63
+218	models	1	14
+219	moderating role	1	8
+220	morphology	1	12
+221	morphology-phonology interface	1	12
+222	multicultural	1	13
+223	multidimensional scaling	1	13
+224	music	1	10
+225	natural speech	1	14
+226	naturalness	7	78
+227	naturalness perception	1	11
+228	negative affect	1	8
+229	nonstutterers	2	17
+230	older-adults	1	9
+231	older-people	1	13
+232	outcomes	2	21
+233	palatalization	1	12
+234	paralinguistic features	1	14
+235	parameter-specific voice morphing	1	14
+236	parameters	2	28
+237	parkinsons-disease	1	9
+238	patterns	1	9
+239	perceived difficulty	1	13
+240	perception	14	165
+241	perceptual evaluation	4	46
+242	perceptual scaling	1	8
+243	person-centered approach	1	14
+244	personalisation	1	13
+245	personality	8	92
+246	perspective	1	12
+247	persuasiveness	1	16
+248	perturbations	1	9
+249	phase-ii trial	1	15
+250	phonation	1	2
+251	phonation threshold pressure	1	2
+252	phoneme representations	1	7
+253	phonology	1	12
+254	phrase-final syllable lengthening	1	12
+255	physical appearance	1	14
+256	physiological response	1	16
+257	pictures	1	10
+258	piriform fossae	1	12
+259	pitch	1	8
+260	pitch accent	1	12
+261	prefrontal cortex	1	13
+262	privacy paradox	1	13
+263	progression	1	9
+264	progressive voice assimilation	1	12
+265	prosodic disturbance	1	9
+266	prosody	3	36
+267	psychology	1	13
+268	psytoolkit	1	14
+269	quality	3	31
+270	quality speech synthesis	1	2
+271	quality-of-life	1	12
+272	race	1	12
+273	radio	1	16
+274	rapid adaptation	1	13
+275	ratings	3	32
+276	rationality	1	8
+277	reading impairments	1	8
+278	recall	2	30
+279	recognition	3	50
+280	reflex	1	10
+281	regularities	1	12
+282	rehabilitation	1	9
+283	reliability	1	13
+284	rendering style	1	10
+285	representation	1	8
+286	resolution	1	13
+287	responses	3	31
+288	restaurant	1	14
+289	restoration	1	12
+290	robot	1	8
+291	robot gaze	1	13
+292	robots	4	61
+293	rules	1	12
+294	school-age-children	1	15
+295	self-disclosure	1	8
+296	semantics	1	11
+297	sense	1	14
+298	sensorimotor adaptation	1	9
+299	sensory memory	1	9
+300	sentence intelligibility	1	9
+301	sequences	1	12
+302	service	1	13
+303	service robot	1	14
+304	severity	1	8
+305	sex	1	9
+306	shimmer	2	19
+307	simulated empathy	1	10
+308	simulation	1	12
+309	single-trial event-related potential (erp)	1	11
+310	sinuses	1	12
+311	smart home speakers	1	13
+312	social correlates	1	5
+313	social perception	1	4
+314	social presence	1	14
+315	social responses	1	14
+316	social robots	5	73
+317	sound	1	9
+318	sound quality	1	6
+319	sounds	1	3
+320	speaker anonymization	1	7
+321	speakers	4	46
+322	speaking	1	10
+323	speaking fundamental-frequency	2	24
+324	speaking rate	1	13
+325	spectral envelope	1	13
+326	speech	11	120
+327	speech disorders	1	9
+328	speech interface	1	15
+329	speech naturalness	5	56
+330	speech perception	3	36
+331	speech production	2	23
+332	speech quality	1	7
+333	speech rate	3	36
+334	speech restructuring	1	15
+335	speech synthesis	4	47
+336	speech synthesis system	1	10
+337	speech-listener	1	12
+338	spinocerebellar ataxia type 1	1	6
+339	statistical parametric speech synthesis	1	3
+340	stereotypes	2	37
+341	stress	2	21
+342	stress management	1	14
+343	stutterers	2	17
+344	stuttering	2	28
+345	styles	1	14
+346	stylistic correlates	1	5
+347	subjective evaluation	1	7
+348	subjective perception	1	13
+349	syllable structure	1	13
+350	synthesised speech	1	10
+351	synthesized speech	3	34
+352	synthesized voice	1	14
+353	synthesized voices	1	11
+354	synthetic speech	1	24
+355	synthetic voice	4	46
+356	system	1	10
+357	talker discrimination	1	13
+358	talker variability	1	13
+359	talking books	1	16
+360	testosterone	1	9
+361	text-to-speech	2	28
+362	text-to-speech systems	1	8
+363	therapy	2	13
+364	timbre	1	14
+365	to-female transsexuals	1	15
+366	tongue	1	12
+367	tracheoesophageal	1	12
+368	tracheoesophageal speech	1	8
+369	transformation	2	13
+370	transgender	1	15
+371	transportation	1	16
+372	transvelar coupling	1	12
+373	treatment	1	15
+374	treatment efficacy	1	4
+375	treatment lsvt(r)	2	21
+376	trust	3	34
+377	trustworthiness	1	12
+378	uncanny valley	6	77
+379	user acceptance	1	15
+380	user perception	1	6
+381	user preference	1	6
+382	users	2	38
+383	valence	2	21
+384	validation	1	14
+385	variables	1	14
+386	verification	1	7
+387	virtual	1	12
+388	virtual agents	1	10
+389	virtual humans	1	9
+390	virtual reality	1	9
+391	vocal affect	1	16
+392	vocal age	1	9
+393	vocal emotions	1	14
+394	vocal fry	1	5
+395	vocal pitch	1	9
+396	vocal prosody	1	8
+397	vocal tract model	2	23
+398	vocal-tract	1	12
+399	vocalic nucleus	1	12
+400	vocalics	1	24
+401	voice	9	109
+402	voice assistant	2	21
+403	voice assistants	1	24
+404	voice human-likeness	1	13
+405	voice perception	2	30
+406	voice problems	1	9
+407	voice quality	6	67
+408	voice quality assessment	1	13
+409	voice-user interface (vui)	1	24
+410	vowel formant frequencies	1	9
+411	vowel normalization	1	13
+412	vowel reduction	1	10
+413	warmth	1	6
+414	willingness	1	13
+415	word recognition	1	13
+416	working alliance	1	14
+417	x-vector singular value	1	7
+418	young	2	11
