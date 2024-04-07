@@ -42,20 +42,25 @@ rel <- rel %>% filter(related != "")
 # creating the word clouds
 
 #Synonyms
-
+set.seed(42)
 
 #seem like we have to tweek the N a little bit 
 syn$N2 <- ifelse(syn$N >= 8, syn$N/2, syn$N)
 
+#remove "crippled"
+syn <- syn %>% filter(synonyms != "crippled") 
 
-wordcloud(words = syn$synonyms, freq = syn$N2, min.freq = 1,
+
+
+
+p <- wordcloud(words = syn$synonyms, freq = syn$N2, min.freq = 1,
           max.words=26,
           random.order=FALSE, 
           random.color = TRUE,
           rot.per=0, scale=c(3.5,0.25),
           colors=brewer.pal(8, "Dark2"))
 
-
+ggsave(filename = "wordcloud_synonyms.png", width = 8, height =8, dpi =300)
 
 
 
