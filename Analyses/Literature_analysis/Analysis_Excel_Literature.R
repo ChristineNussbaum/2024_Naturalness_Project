@@ -23,7 +23,7 @@ source("functions/mySummary.R")
 # Keywords
 
 #load data
-L <- read_excel("C:/Users/Christine Nussbaum/Documents/Arbeit/Forschungsprojekte/2023_Naturalness/Literature_overview.xlsx", sheet= "Tabelle1")
+L <- read_excel("C:/Users/Christine Nussbaum/Documents/Arbeit/Forschungsprojekte/2024_Naturalness_Project/Literature_overview.xlsx", sheet= "Tabelle1")
 
 
 hist(L$Year)
