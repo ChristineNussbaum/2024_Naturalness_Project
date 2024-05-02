@@ -1,0 +1,15 @@
+List some synonyms for "naturalness" in the context of (a) healthy human voices, (b) pathological human voices, (c) synthetic and artificial voices and (d) manipulated voices. Provide 10 synonyms per category. Then assign each word a frequency beteen 0 and 1 depending on how often it is used as a synonym for naturalness in voices. 
+
+
+List synonyms for naturalness in pathological voices. Assign each synonym a frequency between 1 and 0, depending on how often it is used. 
+
+Now do the same for synthetic and manipulated voices. 
+
+Now do the same for healthy human voices. 
+
+Now combine all three lists and omit any repetitions. Keep the frequency information. 
+
+
+
+
+https://chat.openai.com/share/1bbebe50-b45d-4ad6-94f6-c89ded1b2593

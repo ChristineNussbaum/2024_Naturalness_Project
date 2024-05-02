@@ -25,6 +25,8 @@ source("functions/mySummary.R")
 #load data
 L <- read_excel("C:/Users/Christine Nussbaum/Documents/Arbeit/Forschungsprojekte/2024_Naturalness_Project/Literature_overview.xlsx", sheet= "Tabelle1")
 
+table(L$`Include in Tics-MiniReview?`)
+
 
 hist(L$Year)
 
