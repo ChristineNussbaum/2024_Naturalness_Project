@@ -13,83 +13,58 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 #load required packages
 library(tidyverse)
 library(readxl)
-library(wordcloud)
-library(wordcloud2)
+
+
+#HELP: https://cran.r-project.org/web/packages/ggwordcloud/vignettes/ggwordcloud.html
+library(ggwordcloud)
+
 
 #load data
-D <- read_excel("Word_Cloud_input.xlsx", sheet= "Tabelle1")
-
-D <- D[,1:2]
+L <- read_excel("C:/Users/Christine Nussbaum/Documents/Arbeit/Forschungsprojekte/2024_Naturalness_Project/Literature_overview.xlsx", sheet= "Tabelle1")
 
 
-#--------------------------------------------------------------------------------------
-# Data preparation
-
-#get table for synonyms: 
-syn <- as.data.frame(table(D$Synonyms))
-names(syn) <- c("synonyms", "N")
-syn <- syn %>% filter(synonyms != "")
+#include only the selected literatur
+D <- L %>% filter(`Include in Tics-MiniReview?` == "yes")
+rm(L)
 
 
-#get table for related concepts: 
-rel <- as.data.frame(table(D$Relatedconcepts))
-names(rel) <- c("related", "N")
-rel <- rel %>% filter(related != "")
+synonyms <- D$Synonyms 
+synonyms <- str_split(synonyms, ", ")
+wordlist_long <- unlist(synonyms)
+
+#remove all spaces
+wordlist_long <- gsub("^ ", "", wordlist_long, fixed = TRUE)
 
 
-
-#seem like we have to tweek the N a little bit 
-syn$N2 <- ifelse(syn$N >= 2, sqrt(syn$N), syn$N)
-
-#remove "crippled"
-syn <- syn %>% filter(synonyms != "crippled") 
-
-
-
-#--------------------------------------------------------------------------------------
-# creating the word clouds
-
-#Synonyms
-set.seed(42)
+#fix a few options to reduce the number of words a bit
+wordlist_long <- ifelse(wordlist_long == "artificiality", "artificial", wordlist_long)
+wordlist_long <- ifelse(wordlist_long == "bizarre", "bizarreness", wordlist_long)
+wordlist_long <- ifelse(wordlist_long == "monotony", "monotonous", wordlist_long)
+wordlist_long <- ifelse(wordlist_long == "normalcy", "normal", wordlist_long)
+wordlist_long <- ifelse(wordlist_long == "robotic", "roboticness", wordlist_long)
 
 
-# 
-# p <- wordcloud(words = syn$synonyms, freq = syn$N2, min.freq = 1,
-#           max.words=26,
-#           random.order=FALSE, 
-#           random.color = TRUE,
-#           rot.per=0, scale=c(3.5,0.25),
-#           colors=brewer.pal(8, "Dark2"))
-# 
-# ggsave(filename = "wordcloud_synonyms.png", width = 8, height =8, dpi =300)
-# 
-# 
-# 
-# #related concepts
-# rel$N2 <- ifelse(rel$N >= 11, 8, rel$N)
-# set.seed(1265) # for reproducibility 
-# #seem like we have to tweek the N a little bit again
-# wordcloud(words = rel$related, freq = rel$N2, min.freq = 1,
-#           max.words=601,
-#           random.order=FALSE, 
-#           #random.color = TRUE,
-#           rot.per=0, scale=c(2.5,0.4),
-#           colors=brewer.pal(8, "Dark2"))
+#check number of words
+wordlist_unique <- as.data.frame(unique(wordlist_long))
+wordlist_unique
 
+
+wordlist_n <- data.frame(table(wordlist_long)) 
+names(wordlist_n) <- c("Word", "N")
+wordlist_n <-wordlist_n %>% filter(Word != "-")
+
+#fix the N-ratio a bit
+wordlist_n$N2 <- ifelse(wordlist_n$N >= 2, sqrt(wordlist_n$N), wordlist_n$N)
 
 
 #--------------------------------------------------------------------------------------
 # creating the word clouds with ggwordcloud
 
-#HELP: https://cran.r-project.org/web/packages/ggwordcloud/vignettes/ggwordcloud.html
-
-library(ggwordcloud)
-
-set.seed(42)
+set.seed(43)
 
 filename = paste0("plots/wordcloud_synonyms.png")
 
-p <- ggplot(syn, aes(label = synonyms, size= N2, color = N2)) +
+p <- ggplot(wordlist_n, aes(label = Word, size= N2, color = N2)) +
   geom_text_wordcloud_area() + #shape = "cardioid"
   scale_radius(range = c(0, 50), limits = c(0, NA)) +
   theme_bw()
@@ -100,7 +75,7 @@ ggsave(filename, width = 5, height = 5, dpi =300)
 
 
 #--------------------------------------------------------------------------------------
-# creating the word cloud from ChatGPT
+# 2.  creating the word cloud from ChatGPT
 
 #load data)
 
@@ -113,7 +88,7 @@ filename = paste0("plots/wordcloud_synonyms_ChatGPT.png")
 
 p <- ggplot(D2, aes(label = synonyms, size= N^3, color = N^3)) +
   geom_text_wordcloud_area() + #shape = "cardioid"
-  scale_radius(range = c(0, 40), limits = c(0, NA)) +
+  scale_radius(range = c(0, 45), limits = c(0, NA)) +
   theme_bw()
 
 ggsave(filename, width = 5, height = 5, dpi =300)
