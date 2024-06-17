@@ -27,14 +27,17 @@
 
 
 
+Plan für unser Meeting am Mittwoch wäre also:
 
-Folgende wichtige Änderungen sind drin:
-
-- Der Einleitungs-Absatz von Sascha
-- eine überarbeitete Version von Figure 1
-- ein erster Draft von Box 1
-
--> Stand Dokumentieren 
+- "Festklopfen" der Abschnitte 1-3
+- Einfügen von ein bisschen mehr "thematischer Intuition" zwecks Leserführung
+- Abstimmung über Visualierung und "rooting in voice perception theory" (Abschnitte 4 und 5)
+- Presubmission-Enquiry 
 
 
+- svg and Stefan und Sascha
+- Tine: progressing in conjunction + recommendations
+- alle: Figure
+- Liste mit articles (30% von uns) -> Roswandowitz / Nussbaum 2023
+- 
 
