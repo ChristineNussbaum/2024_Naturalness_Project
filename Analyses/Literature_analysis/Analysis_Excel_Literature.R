@@ -29,6 +29,8 @@ L <- read_excel("C:/Users/Christine Nussbaum/Documents/Arbeit/Forschungsprojekte
 D <- L %>% filter(`Include in Tics-MiniReview?` == "yes")
 rm(L)
 
+table(D$`In Web of Science`)
+
 
 #year range 
 table(D$Year)
