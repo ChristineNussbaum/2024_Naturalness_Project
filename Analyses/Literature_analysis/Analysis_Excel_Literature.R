@@ -37,12 +37,14 @@ table(D$Year)
 
 #sum published after 2015
 N_10years <- D %>% filter(Year >2014) %>% count(N = length(Year),
-                                               propm = N/66)
+                                               propm = N/72)
 
+N_5years <- D %>% filter(Year >2018) %>% count(N = length(Year),
+                                                propm = N/72)
 
 #paper type
 table(D$Type)
-table(D$Type)/66
+table(D$Type)/73
 
 
 # voice type 
@@ -53,11 +55,11 @@ table(D$`Type of voices (synthetic, human-pathological, human-manipulated, human
 table(D$`Type of data`)
 
 #definition
-table(D$`Definition given?  ToDo`)
+table(D$`Definition given?`)
 
 # conceptualization
 
-table(D$`Concept: Human-Likeness (1) vs. Deviation (2); Both (3) ToDo`)
+table(D$`Concept: Human-Likeness (1) vs. Deviation (2); Both (3)`)
 
 #N keywords
 
