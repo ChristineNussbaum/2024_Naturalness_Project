@@ -276,39 +276,6 @@ DA 2024-01-09
 ER
 
 PT J
-AU Jones, H N
-    Crisp, K D
-    Kuchibhatla, M
-    Mahler, L
-    Risoli, T
-    Jones, C W
-    Kishnani, P 
-AF Jones, Harrisson N
-    Crisp, Kelly D
-    Kuchibhatla, Maragatha
-    Mahler, Leslie
-    Risoli, Thomas Jr.
-    Jones, Carlee W
-    Kishnani, Priya 
-TI Auditory-Perceptual Speech Features in Children With Down Syndrome
-SO American Journal on Intellectual and Developmental Disabilities
-LA English
-DE Down Syndrome, dysarthia, speech disorders, perceptual speech features
-AB Speech disorders occur commonly in individuals with Down syndrome (DS), although dataregarding the auditory-perceptual speech features are limited. This descriptive study assessed47 perceptual speech features during connected speech samples in 26 children with DS. Themost severely affected speech features were: naturalness, imprecise consonants, hyponasality,speech rate, inappropriate silences, irregular vowels, prolonged intervals, overall loudnesslevel, pitch level, aberrant oropharyngeal resonance, hoarse voice, reduced stress, andprolonged phonemes. These findings suggest that speech disorders in DS are due todistributed impairments involving voice, speech sound production, fluency, resonance, andprosody. These data contribute to the development of a profile of impairments in speakerswith DS to guide future research and inform clinical assessment and treatment.
-CR Anand S, 2015, J SPEECH LANG HEAR R, V58, P1134, DOI 10.1044/2015_JSLHR-S-14-0243
-NR 1
-J9 AJIDD-AM J INTELLECT 
-JI AJIDD-AM J INTELLECT
-PY 2019
-VL 124
-IS 4
-BP 324
-EP 338
-DI 10.1352/1944-7558-124.4.324
-DA 2024-01-09
-ER
-
-PT J
 AU Klopfenstein, M
 AF Klopfenstein, Marie
 TI  Speech naturalness ratings and perceptual correlates of highly natural and unnatural speech in hypokinetic dysarthria secondary to Parkinson’s disease
@@ -408,35 +375,6 @@ VL 1
 BP 7
 EP 19
 DI 10.1007/BF02277176
-DA 2024-01-09
-ER
-
-PT J
-AU Parmar, D
-    Olafsson, S
-    Utami, D
-    Murali, P
-    Bickmore, T
-AF Parmar, Dhaval
-    Olafsson, Stefan
-    Utami, Dina
-    Murali, Prasanth
-    Bickmore, Timothy
-TI Designing empathic virtual agents: manipulating animation, voice, rendering, and empathy to create persuasive agents
-SO Autonomous agents and multi-agent systems
-LA English
-DE Virtual agents, Animation fidelity, Voice quality, Rendering style, Simulated empathy, Agent perception
-AB Designers of virtual agents have a combinatorically large space of choices for the look andbehavior of their characters. We conducted two between-subjects studies to explore the systematicmanipulation of animation quality, speech quality, rendering style, and simulatedempathy, and its impact on perceptions of virtual agents in terms of naturalness, engagement,trust, credibility, and persuasion within a health counseling domain. In the firststudy, animation was varied between manually created, procedural, or no animations; voicequality was varied between recorded audio and synthetic speech; and rendering style wasvaried between realistic and toon-shaded. In the second study, simulated empathy of theagent was varied between no empathy, verbal-only empathic responses, and full empathyinvolving verbal, facial, and immediacy feedback. Results show that natural animations andrecorded voice are more appropriate for the agent’s general acceptance, trust, credibility,and appropriateness for the task. However, for a brief health counseling task, animationmight actually be distracting from the persuasive message, with the highest levels of persuasionfound when the amount of agent animation is minimized. Further, consistent andhigh levels of empathy improve agent perception but may interfere with forming a trustingbond with the agent.
-CR Mitchell WJ, 2011, I-PERCEPTION, V2, P10, DOI 10.1068/i0415
-NR 1
-J9 AUTON AGENT MULTI-AG
-JI Auton. Agent. Multi.-Ag.
-PD 2022 FEB 22
-PY 2022
-VL 36
-IS 1
-PG 24
-DI 10.1007/s10458-021-09539-1
 DA 2024-01-09
 ER
 
