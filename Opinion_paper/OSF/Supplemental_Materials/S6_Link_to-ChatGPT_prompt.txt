@@ -1,8 +1,0 @@
-This is the link to the conversation with ChatGPT, where the wordlist for the wordcloud was created: 
-
-https://chat.openai.com/share/1bbebe50-b45d-4ad6-94f6-c89ded1b2593
-
-
-Comments on the ChatGPT analysis
-
-The purpose of the ChatGPT wordcloud was to complement the one created based on the literature (Figure 1A). For Figure 1A, we manually extracted the terms from the literature, which makes them prone to biases, despite our best efforts to provide transparency and reproducibility. We conducted the ChatGPT analysis to complement this with a more objective approach, to see whether this reveals any "blind spots", i.e. whether it would return some crucial terms we had completely overlooked in our literature work. And indeed, it revealed a strong association to authenticity in the non-scientific literature, motivating us to include a clear conceptual demarcation to naturalness in the review. Please note however, that results from generative AI are also biased and dependent on the input material they were trained on. Therefore, we are aware that the wordcloud generated based on ChatGPT is also potentially biased in several ways. This is why we present both Figure 1A and 1B. Neither of them is flawless or completely bias-free, but they complement each other. The resulting terms give an overview over the current scope of voice naturalness research and could be used as a starting point for a systematic literature search in the future.
